@@ -1,0 +1,701 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: BP-Album+ 0.1.8.10 Spanish\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-album\n"
+"POT-Creation-Date: 2014-01-12 21:01+0200\n"
+"PO-Revision-Date: 2014-05-06 23:57+0200\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"Language: cs_CZ\n"
+"X-Poedit-SearchPath-0: D:\\share\\UwAmp\\www\\sw\\wp-content\\themes"
+"\\sweetdate\\lib\\bp-album\n"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:256
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:276
+msgid "BP Album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:295
+msgid "Album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:307
+msgid "My pictures"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:307
+#, php-format
+msgid "%s's pictures"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:321
+msgid "Picture"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:331
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:225
+msgid "Upload picture"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:770
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:985
+#, php-format
+msgid "%s uploaded a new picture: %s"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:55
+msgid "Edit Picture"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:72
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:186
+msgid "Public"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:73
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:187
+msgid "Registered members"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:74
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:188
+msgid "Only friends"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:75
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:189
+msgid "Private"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:76
+msgid "Hidden (admin only)"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:83
+msgid "Picture Title *"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:89
+msgid "Picture Description"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:95
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:206
+msgid "Visibility"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:103
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:218
+msgid "(limit reached)"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:112
+msgid "Picture activity and comments"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:113
+msgid "Enable"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:114
+msgid "Disable"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:115
+msgid "If the picture already has comments this will delete them"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:118
+msgid "Save"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:126
+msgid "Either this url is not valid or you can't edit this picture."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:170
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:194
+msgid "Upload new picture"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:202
+msgid "Select Picture to Upload *"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:233
+msgid ""
+"You have reached the upload limit, delete some pictures if you want to "
+"upload more"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:264
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:528
+msgid "Please select a privacy option."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:290
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:552
+msgid "Privacy option is not correct."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:298
+msgid "You reached the limit for public pictures."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:298
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:301
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:304
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:307
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:558
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:561
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:564
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:567
+msgid "Please select another privacy option."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:301
+msgid "You reached the limit for pictures visible to community members."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:304
+msgid "You reached the limit for pictures visible to friends."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:307
+msgid "You reached the limit for private pictures."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:314
+msgid "There was no error, the file uploaded with success"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:315
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:316
+msgid "Your image was bigger than the maximum allowed file size of: "
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:317
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:318
+msgid "No file was uploaded"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:319
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:325
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:345
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:357
+#, php-format
+msgid "Your upload failed, please try again. Error was: %s"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:331
+msgid ""
+"The picture you tried to upload was too big. Please upload a file less than "
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:339
+msgid "Please upload only JPG, GIF or PNG image files."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:443
+msgid "Your picture was successfully uploaded. You can now edit its details."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:446
+msgid "There were problems saving the pictures details."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:518
+msgid "Picture title cannot be blank."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:523
+msgid "Picture description cannot be blank."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:558
+msgid "You have reached the limit for public pictures."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:561
+msgid "You have reached the limit for pictures visible to community members."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:564
+msgid "You have reached the limit for pictures visible to friends."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:567
+msgid "You have reached the limit for private pictures."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:576
+msgid "Comments option is not correct."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:587
+msgid "Picture details saved."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:590
+msgid "There were problems saving picture details."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:623
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/single.php:51
+msgid "This url is not valid."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:629
+msgid "You don't have permission to delete this picture"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:632
+msgid "Picture deleted."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:637
+msgid "There were problems deleting the picture."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:316
+msgid "Edit picture"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:344
+msgid "Delete picture"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:509
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:551
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:640
+msgid "Return to your album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:509
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:551
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:640
+#, php-format
+msgid "Return to %s album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:211
+#, php-format
+msgid "File &#8220;%s&#8221; doesn&#8217;t exist?"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:214
+msgid "The GD image library is not installed."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:222
+#, php-format
+msgid "File &#8220;%s&#8221; is not an image."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:255
+msgid "Could not read image size"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:260
+msgid "Could not calculate resized image dimensions"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:289
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:292
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:297
+msgid "Resize path invalid"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:93
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:95
+msgid "BP Album - "
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:93
+msgid " - [Single Site Mode]"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:96
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:98
+msgid "Settings Updated."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:101
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:103
+msgid "Project Calendar"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:103
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:105
+msgid "View our development schedule in real-time using Pivotal Tracker."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:110
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:112
+msgid "Support Forum"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:112
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:114
+msgid ""
+"Need help with the plugin? There are <i>hundreds of other users</i> that can "
+"answer your questions on our BuddyPress support forum."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:119
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:121
+msgid "Official Website"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:121
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:123
+msgid ""
+"Our base of operations on the internet and the <i>only</i> source of info "
+"that's been checked by our dev team."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:128
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:130
+msgid "Features List"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:130
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:132
+msgid "See what features we're adding to upcoming versions of the plugin."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:137
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:139
+msgid "Activity Feed"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:139
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:141
+msgid "Up-to-the-second bug reports and code updates via Google Code."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:151
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:153
+msgid "Slug Name"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:155
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:157
+msgid ""
+"Bad slug names will disable the plugin. No Spaces. No Punctuation. No "
+"Special Characters. No Accents."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:157
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:159
+msgid ""
+"{ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890_- } ONLY."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:163
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:165
+msgid "Name of BP Album slug"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:171
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:173
+msgid "General"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:175
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:177
+msgid "Force members to enter a description for each image"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:177
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:184
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:191
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:271
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:293
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:317
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:327
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:179
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:186
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:193
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:273
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:295
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:319
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:329
+msgid "Yes"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:178
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:185
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:192
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:272
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:294
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:318
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:328
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:180
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:187
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:194
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:274
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:296
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:320
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:330
+msgid "No"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:182
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:184
+msgid "Allow site members to post comments on album images"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:189
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:191
+msgid "Post image thumbnails to members activity stream"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:198
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:200
+msgid "Album Size Limits"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:201
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:203
+msgid ""
+"<b>Accepted values:</b> EMPTY (no limit), NUMBER (value you set), 0 "
+"(disabled). The first option does not accept 0. The last option only accepts "
+"a number."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:206
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:208
+msgid "Max total images allowed in a members album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:212
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:214
+msgid "Max images visible to public allowed in a members album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:218
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:220
+msgid "Max images visible only to members in a members album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:224
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:226
+msgid "Max images visible only to friends in a members album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:230
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:232
+msgid "Max private images in a members album"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:236
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:238
+msgid "Images per album page"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:243
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:245
+msgid "Image Size Limits"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:246
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:248
+msgid ""
+"Uploaded images will be re-sized to the values you set here. Values are for "
+"both X and Y size in pixels. We <i>strongly</i> suggest you keep the "
+"original image files so BP-Media 0.1.9 can re-render your images during the "
+"upgrade process."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:251
+msgid "Maximum file size (mb) that can be uploaded"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:257
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:259
+msgid "Album Image Size"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:263
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:265
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:269
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:271
+msgid "Keep original image files"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:278
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:280
+msgid "Image URL Mapping"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:282
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:284
+msgid ""
+"If you get broken links when viewing images in BP-Album, it means your "
+"server is sending the wrong base URL to the plugin. You can use the image "
+"URL re-mapping function to fix this."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:284
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:286
+msgid "DOCUMENTATION"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:291
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:293
+msgid "Use image URL re-mapping"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:298
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:300
+msgid "Base URL"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:307
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:309
+msgid "Activity Stream Rebuild"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:310
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:312
+msgid ""
+"A defect in plugin versions before 0.1.8.5 caused all bp-album activity "
+"posts to be deleted from the site when the administrator deleted a user. Set "
+"'Rebuild Posts' to 'yes' to add <b>EVERY PHOTO ON YOUR SITE</b> that users "
+"have marked as <b>PUBLIC</b> to the site activity stream. This will also "
+"<b>ALLOW COMMENTS</b> on the photos. The created posts will have random "
+"dates to avoid flooding the activity stream. Set 'UNDO Rebuild Posts' to "
+"'yes' to remove the posts <i>this function</i> creates <u>it will not harm "
+"posts that users created</u>."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:315
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:317
+msgid "Rebuild posts"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:325
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:327
+msgid "UNDO rebuild posts"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:334
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:336
+msgid "Save Settings"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:95
+msgid " - [Network Mode]"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:253
+msgid "Maximum file (mb) size that can be uploaded"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:13
+msgid "Reply"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:18
+msgid "Mark as Favorite"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:18
+msgid "Favorite"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:20
+msgid "Remove Favorite"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:29
+msgid "In reply to"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:30
+msgid "View Thread / Permalink"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:30
+msgid "View"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:45
+msgid "Post"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:45
+msgid "or press esc to cancel."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:61
+#, php-format
+msgid ""
+"Comments are disabled for this picture. %sEdit the picture%s to enable them."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/pictures.php:46
+msgid "You don't have any photos yet. Why not upload some!"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/pictures.php:46
+#, php-format
+msgid ""
+"Either %s hasn't uploaded any pictures yet or they have restricted access"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/single.php:51
+msgid "Either this url is not valid or picture has restricted access."
+msgstr ""
+
+msgid "BP Album+ Settings"
+msgstr ""
+
+msgid "Are you ready for BP-Media 0.1.9?"
+msgstr ""
+
+msgid ""
+"Over the past six months, we've grown from a tiny plugin to a massive "
+"project with over 25,000 users, corporate sponsors, and a busy developer "
+"community. We've added multiple-album, audio, video, and embedded media "
+"support ...tagging and activity stream functionality that exceeds FaceBook "
+"and Flickr ...and powerful caching and content delivery network features. "
+"The next version of the plugin, BP-Media 0.1.9, is over <i>20 times bigger</"
+"i> than BP-Album 0.1.8 ...it has <i>350+ configuration options and 25 "
+"different template files</i>."
+msgstr ""
+
+msgid ""
+"Version 0.1.9 won't be ready until 2011-01-30, but you can download the "
+"latest beta <i>right now</i> from our Google Code <a href='http://code."
+"google.com/p/buddypress-media/downloads/list'>download page</a>, and start "
+"preparing for the big upgrade."
+msgstr ""
+
+msgid "<b>For more information, follow these links:</b>"
+msgstr ""
+
+msgid "No pics here, show something to the community!"
+msgstr ""

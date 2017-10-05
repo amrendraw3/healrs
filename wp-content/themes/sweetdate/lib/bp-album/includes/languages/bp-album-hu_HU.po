@@ -1,0 +1,724 @@
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# Baka Attila Tamás <baka.tamas@e-vista.hu>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP-Album+ 0.1.8.10 Hungarian\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bp-album\n"
+"POT-Creation-Date: 2014-01-12 21:01+0200\n"
+"PO-Revision-Date: 2014-01-12 21:01+0200\n"
+"Last-Translator: Baka Attila Tamás <baka.tamas@e-vista.hu>\n"
+"Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\share\\UwAmp\\www\\sw\\wp-content\\themes"
+"\\sweetdate\\lib\\bp-album\n"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:256
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:276
+#, fuzzy
+msgid "BP Album"
+msgstr "BP Album+"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:295
+msgid "Album"
+msgstr "Album"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:307
+msgid "My pictures"
+msgstr "Saját képek"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:307
+#, php-format
+msgid "%s's pictures"
+msgstr "%s képei"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:321
+msgid "Picture"
+msgstr "Kép"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:331
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:225
+msgid "Upload picture"
+msgstr "Kép feltöltése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:770
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.core.php:985
+#, php-format
+msgid "%s uploaded a new picture: %s"
+msgstr "%s új képet töltött fel: %s"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:55
+msgid "Edit Picture"
+msgstr "Kép szerkesztése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:72
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:186
+msgid "Public"
+msgstr "Publikus"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:73
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:187
+msgid "Registered members"
+msgstr "Regisztrált tagok"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:74
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:188
+msgid "Only friends"
+msgstr "Csak barátok"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:75
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:189
+msgid "Private"
+msgstr "Privát"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:76
+msgid "Hidden (admin only)"
+msgstr "Rejtett (csak admin)"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:83
+msgid "Picture Title *"
+msgstr "Kép cím *"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:89
+msgid "Picture Description"
+msgstr "Kép leírás"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:95
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:206
+msgid "Visibility"
+msgstr "Láthatóság"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:103
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:218
+msgid "(limit reached)"
+msgstr "(korlát elérve)"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:112
+msgid "Picture activity and comments"
+msgstr "Kép aktivitás és hozzászólások"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:113
+msgid "Enable"
+msgstr "Engedélyez"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:114
+msgid "Disable"
+msgstr "Letilt"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:115
+#, fuzzy
+msgid "If the picture already has comments this will delete them"
+msgstr "Ha a képhez tartoznak hozzászólások, ez le fogja törölni őket"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:118
+msgid "Save"
+msgstr "Mentés"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:126
+msgid "Either this url is not valid or you can't edit this picture."
+msgstr "Ez az url vagy hibás, vagy nem szerkesztheted ezt a képet"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:170
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:194
+msgid "Upload new picture"
+msgstr "Új kép feltöltése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:202
+msgid "Select Picture to Upload *"
+msgstr "Válassza ki a képet a feltöltéshez *"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:233
+msgid ""
+"You have reached the upload limit, delete some pictures if you want to "
+"upload more"
+msgstr ""
+"Elérted a feltöltési limitet, törölj párat, ha szeretnél  többet feltölteni"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:264
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:528
+msgid "Please select a privacy option."
+msgstr "Kérlek válassz egy adatvédelmi opciót."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:290
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:552
+msgid "Privacy option is not correct."
+msgstr "Az adatvédelmi opció nem helyes."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:298
+msgid "You reached the limit for public pictures."
+msgstr "Elérted a publikus képek korlátját."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:298
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:301
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:304
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:307
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:558
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:561
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:564
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:567
+msgid "Please select another privacy option."
+msgstr "Kérlek válassz egy másik adatvédelmi opciót."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:301
+msgid "You reached the limit for pictures visible to community members."
+msgstr "Elérted a közösség tagjai számára látható képek korlátját."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:304
+msgid "You reached the limit for pictures visible to friends."
+msgstr "Elérted a barátaid számára látható képek korlátját."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:307
+msgid "You reached the limit for private pictures."
+msgstr "Elérted a privát képek korlátját."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:314
+#, fuzzy
+msgid "There was no error, the file uploaded with success"
+msgstr "Nincs hiba, a fájl sikeresen feltöltődött"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:315
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:316
+msgid "Your image was bigger than the maximum allowed file size of: "
+msgstr "A képed nagyobb volt, mint a maximum engedélyezett fájl méret: "
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:317
+msgid "The uploaded file was only partially uploaded"
+msgstr "A fájlt csak részlegesen sikerült feltölteni"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:318
+msgid "No file was uploaded"
+msgstr "Nem töltődött fel fájl"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:319
+msgid "Missing a temporary folder"
+msgstr "Hiányzó ideiglenes könyvtár"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:325
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:345
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:357
+#, php-format
+msgid "Your upload failed, please try again. Error was: %s"
+msgstr ""
+"A feltöltésed nem sikerült, kérlek próbáld meg újra. A hiba a következő "
+"volt: %s"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:331
+#, fuzzy
+msgid ""
+"The picture you tried to upload was too big. Please upload a file less than "
+msgstr ""
+"A feltöltött fájl túl nagy méretű. Kérlek próbálj meg feltölteni a következő "
+"méret alatt: %s"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:339
+msgid "Please upload only JPG, GIF or PNG image files."
+msgstr "Kérlek csak JPG, GIF vagy PNG képfájlokat tölts fel."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:443
+#, fuzzy
+msgid "Your picture was successfully uploaded. You can now edit its details."
+msgstr "Kép sikeresen feltöltve. Most már módosítani tudod a részleteit."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:446
+#, fuzzy
+msgid "There were problems saving the pictures details."
+msgstr "Probléma akadt a részletek mentése közben."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:518
+#, fuzzy
+msgid "Picture title cannot be blank."
+msgstr "A kép címe nem lehet üres."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:523
+#, fuzzy
+msgid "Picture description cannot be blank."
+msgstr "A kép leírása nem lehet üres."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:558
+#, fuzzy
+msgid "You have reached the limit for public pictures."
+msgstr "Elérted a publikus képek korlátját."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:561
+#, fuzzy
+msgid "You have reached the limit for pictures visible to community members."
+msgstr "Elérted a közösség tagjai számára látható képek korlátját."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:564
+#, fuzzy
+msgid "You have reached the limit for pictures visible to friends."
+msgstr "Elérted a barátaid számára látható képek korlátját."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:567
+#, fuzzy
+msgid "You have reached the limit for private pictures."
+msgstr "Elérted a privát képek korlátját."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:576
+msgid "Comments option is not correct."
+msgstr "A hozzászólások opció hibás."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:587
+msgid "Picture details saved."
+msgstr "A kép részleteit elmentettük."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:590
+msgid "There were problems saving picture details."
+msgstr "Probléma akadt a részletek mentése közben."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:623
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/single.php:51
+msgid "This url is not valid."
+msgstr "Az url hibás."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:629
+msgid "You don't have permission to delete this picture"
+msgstr "Nincs jogosultságod ezen kép törlésére."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:632
+msgid "Picture deleted."
+msgstr "Kép törölve."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.screens.php:637
+msgid "There were problems deleting the picture."
+msgstr "Problémák akadtak a kép törlése közben."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:316
+msgid "Edit picture"
+msgstr "Kép szerkesztése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:344
+msgid "Delete picture"
+msgstr "Kép törlése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:509
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:551
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:640
+msgid "Return to your album"
+msgstr "Vissza az albumodba"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:509
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:551
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/bpa.template.tags.php:640
+#, php-format
+msgid "Return to %s album"
+msgstr "Vissza a következő albumba: %s"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:211
+#, php-format
+msgid "File &#8220;%s&#8221; doesn&#8217;t exist?"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:214
+msgid "The GD image library is not installed."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:222
+#, php-format
+msgid "File &#8220;%s&#8221; is not an image."
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:255
+msgid "Could not read image size"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:260
+msgid "Could not calculate resized image dimensions"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:289
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:292
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/class.image.php:297
+msgid "Resize path invalid"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:93
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:95
+msgid "BP Album - "
+msgstr "BP Album - "
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:93
+msgid " - [Single Site Mode]"
+msgstr "- [Egy oldalas üzemmód]"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:96
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:98
+msgid "Settings Updated."
+msgstr "Beállítások frissítve."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:101
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:103
+msgid "Project Calendar"
+msgstr "Projekt naptár"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:103
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:105
+msgid "View our development schedule in real-time using Pivotal Tracker."
+msgstr ""
+"Nézd meg a fejlesztési ütemtervet valós időben a Pivotal Tracker "
+"használatával."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:110
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:112
+msgid "Support Forum"
+msgstr "Support fórum"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:112
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:114
+msgid ""
+"Need help with the plugin? There are <i>hundreds of other users</i> that can "
+"answer your questions on our BuddyPress support forum."
+msgstr ""
+"Segítségre van szükséged a pluginnal kapcsolatban? <i>Több száz</i> "
+"felhasználó tud választ adni a kérdéseidre a BuddyPress Support fórumon."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:119
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:121
+msgid "Official Website"
+msgstr "Hivatalos weboldal"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:121
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:123
+msgid ""
+"Our base of operations on the internet and the <i>only</i> source of info "
+"that's been checked by our dev team."
+msgstr ""
+"A központunk az interneten és az <i>egyetlen</i> információ forrás, amit "
+"leellenőrzött a fejlesztő csapatunk."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:128
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:130
+msgid "Features List"
+msgstr "Szolgáltatások listája"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:130
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:132
+msgid "See what features we're adding to upcoming versions of the plugin."
+msgstr ""
+"Nézd meg milyen szolgáltatásokat adunk hozzá a plugin következő verzióihoz."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:137
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:139
+msgid "Activity Feed"
+msgstr "Tevékenységi hírcsatorna"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:139
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:141
+msgid "Up-to-the-second bug reports and code updates via Google Code."
+msgstr "Azonnali hibajelentés és frissítések a Google Code által"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:151
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:153
+msgid "Slug Name"
+msgstr "Közvetlen link neve"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:155
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:157
+#, fuzzy
+msgid ""
+"Bad slug names will disable the plugin. No Spaces. No Punctuation. No "
+"Special Characters. No Accents."
+msgstr ""
+"Hibás közvetlen link nevek esetén nem fog működni a plugin. Ne használj "
+"space-t, írásjeleket, ékezeteket és speciális karaktereket."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:157
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:159
+msgid ""
+"{ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890_- } ONLY."
+msgstr ""
+"Használható karakterek: "
+"{ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ01234567890_- }"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:163
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:165
+#, fuzzy
+msgid "Name of BP Album slug"
+msgstr "A BP Album+ közvetlen linkje"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:171
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:173
+msgid "General"
+msgstr "Általános"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:175
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:177
+msgid "Force members to enter a description for each image"
+msgstr "A tagoknak minden képhez kötelező leírást adni"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:177
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:184
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:191
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:271
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:293
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:317
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:327
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:179
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:186
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:193
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:273
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:295
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:319
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:329
+msgid "Yes"
+msgstr "Igen"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:178
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:185
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:192
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:272
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:294
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:318
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:328
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:180
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:187
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:194
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:274
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:296
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:320
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:330
+msgid "No"
+msgstr "Nem"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:182
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:184
+msgid "Allow site members to post comments on album images"
+msgstr "A tagoknak hozzászólhatnak az albumok képeihez"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:189
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:191
+msgid "Post image thumbnails to members activity stream"
+msgstr "A bélyegképek jelenjenek meg a tagok hírfolyamán"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:198
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:200
+msgid "Album Size Limits"
+msgstr "Album méret korlátok"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:201
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:203
+msgid ""
+"<b>Accepted values:</b> EMPTY (no limit), NUMBER (value you set), 0 "
+"(disabled). The first option does not accept 0. The last option only accepts "
+"a number."
+msgstr ""
+"<b>Elfogadott értékek:</b> ÜRES (nincs korlát), SZÁM (az általad beállított "
+"érték), 0 (kikapcsolva). Az első opció nem fogadja el a nullát. Az utolsó "
+"opció csak számot fogad el."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:206
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:208
+msgid "Max total images allowed in a members album"
+msgstr "Egy tag albumába feltölthető képek maximális száma"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:212
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:214
+msgid "Max images visible to public allowed in a members album"
+msgstr "Egy tag albumában publikusan elérhető képek maximális száma"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:218
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:220
+msgid "Max images visible only to members in a members album"
+msgstr "Csak a tagok által látható képek maximális száma egy tag albumában"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:224
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:226
+msgid "Max images visible only to friends in a members album"
+msgstr "Egy tag barátai által látható képek maximális száma egy tag albumában"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:230
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:232
+msgid "Max private images in a members album"
+msgstr "Privát képek maximális száma egy tag albumában"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:236
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:238
+msgid "Images per album page"
+msgstr "Képek száma oldalanként"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:243
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:245
+msgid "Image Size Limits"
+msgstr "Kép méret korlátok"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:246
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:248
+msgid ""
+"Uploaded images will be re-sized to the values you set here. Values are for "
+"both X and Y size in pixels. We <i>strongly</i> suggest you keep the "
+"original image files so BP-Media 0.1.9 can re-render your images during the "
+"upgrade process."
+msgstr ""
+"A feltöltött képek át lesznek méretezve az általad meghatározott értékek "
+"szerint. Az értékek pixelben számolva érvényesek a szélességre és a "
+"magasságra is.  <i>Erősen</i> ajánljuk az eredeti képek megőrzését, hogy a "
+"BP-Media 0.1.9 újra tudja generálni a képeket a frissítés során."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:251
+msgid "Maximum file size (mb) that can be uploaded"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:257
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:259
+msgid "Album Image Size"
+msgstr "Album kép méret"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:263
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:265
+msgid "Thumbnail Image Size"
+msgstr "Bélyegkép méret korlát"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:269
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:271
+msgid "Keep original image files"
+msgstr "Eredeti képek megőrzése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:278
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:280
+msgid "Image URL Mapping"
+msgstr "Kép URL újraképzés"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:282
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:284
+#, fuzzy
+msgid ""
+"If you get broken links when viewing images in BP-Album, it means your "
+"server is sending the wrong base URL to the plugin. You can use the image "
+"URL re-mapping function to fix this."
+msgstr ""
+"Ha hibás linkeket kapsz a BP-Album+ használata során, a szervered hibás alap "
+"URL-t küld a plugin-nak. A kép URL újraképzés funkció használatával tudod "
+"ezt javítani."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:284
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:286
+msgid "DOCUMENTATION"
+msgstr "DOKUMENTÁCIÓ"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:291
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:293
+msgid "Use image URL re-mapping"
+msgstr "Kép URL újraképzés használata"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:298
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:300
+msgid "Base URL"
+msgstr "Alap URL"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:307
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:309
+msgid "Activity Stream Rebuild"
+msgstr "Tevékenység folyam újraépítése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:310
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:312
+msgid ""
+"A defect in plugin versions before 0.1.8.5 caused all bp-album activity "
+"posts to be deleted from the site when the administrator deleted a user. Set "
+"'Rebuild Posts' to 'yes' to add <b>EVERY PHOTO ON YOUR SITE</b> that users "
+"have marked as <b>PUBLIC</b> to the site activity stream. This will also "
+"<b>ALLOW COMMENTS</b> on the photos. The created posts will have random "
+"dates to avoid flooding the activity stream. Set 'UNDO Rebuild Posts' to "
+"'yes' to remove the posts <i>this function</i> creates <u>it will not harm "
+"posts that users created</u>."
+msgstr ""
+"A 0.1.8.5 előtti plugin verziónál egy hiba miatt minden tevékenység folyam "
+"poszt törlődött, ha az adminisztrátor törölt egy felhasználót. Állítsd a "
+"Posztok újraépítését igenre, hogy <b>MINDEN FOTÓ</b> az oldaladon "
+"<b>PUBLIKUSKÉNT</b> a tevékenységi folyamba kerüljön. Ez <b>ENGEDÉLYEZI A "
+"HOZZÁSZÓLÁSOKAT</b> is a fotókon. A kreált posztok véletlenszerű dátumokkal "
+"fognak rendelkezni, hogy ne árasszák el teljesen a tevékenységi folyamot. "
+"Állítsd az újraépítés visszavonását igenre, ha a kreált posztokat törölni "
+"akarod. A felhasználok által létrehozott posztok ebben az esetben nem fognak "
+"törlődni."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:315
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:317
+msgid "Rebuild posts"
+msgstr "Posztok újraépítése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:325
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:327
+msgid "UNDO rebuild posts"
+msgstr "Újraépítés VISSZAVONÁSA"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.local.php:334
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:336
+msgid "Save Settings"
+msgstr "Beállítások mentése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:95
+msgid " - [Network Mode]"
+msgstr " - [Network Mode]"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/admin/bpa.admin.network.php:253
+msgid "Maximum file (mb) size that can be uploaded"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:13
+msgid "Reply"
+msgstr "Válasz"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:18
+msgid "Mark as Favorite"
+msgstr "Kedvencnek jelölés"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:18
+msgid "Favorite"
+msgstr "Kedvenc"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:20
+msgid "Remove Favorite"
+msgstr "Kedvenc eltávolítása"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:29
+msgid "In reply to"
+msgstr "Válaszként erre:"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:30
+msgid "View Thread / Permalink"
+msgstr "Szál / Permalink megtekintése"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:30
+msgid "View"
+msgstr "Megtekintés"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:45
+msgid "Post"
+msgstr "Poszt"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:45
+msgid "or press esc to cancel."
+msgstr "vagy nyomj Escape-et visszavonáshoz"
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/comments.php:61
+#, fuzzy, php-format
+msgid ""
+"Comments are disabled for this picture. %sEdit the picture%s to enable them."
+msgstr ""
+"A hozzászólások ki vannak kapcsolva ennél a képnél. A %skép szerkesztésével"
+"%s tudod engedélyezni."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/pictures.php:46
+msgid "You don't have any photos yet. Why not upload some!"
+msgstr ""
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/pictures.php:46
+#, fuzzy, php-format
+msgid ""
+"Either %s hasn't uploaded any pictures yet or they have restricted access"
+msgstr "%s vagy nem töltött fel még képet, vagy korlátozott a hozzáférésük."
+
+#: D:\share\UwAmp\www\sw\wp-content\themes\sweetdate\lib\bp-album/includes/templates/album/single.php:51
+msgid "Either this url is not valid or picture has restricted access."
+msgstr "Ez az URL vagy hibás, vagy a kép elérése korlátozva van"
+
+#~ msgid "No pics here, show something to the community!"
+#~ msgstr "Itt nincs kép, mutass valamit a közönségnek!"

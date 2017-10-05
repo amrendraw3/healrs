@@ -1,0 +1,3194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Multi Vendor\n"
+"POT-Creation-Date: 2017-08-16 12:55+0200\n"
+"PO-Revision-Date: 2017-08-16 12:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: YIThemes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n!=1;\n"
+"X-Poedit-KeywordsList: __ ;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_attr__;esc_attr_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: plugin-fw\n"
+
+#: includes/class.yith-commission.php:474
+#, php-format
+msgid "Commission status changed from %s to %s."
+msgstr "Stato commissione modificato da %s a %s."
+
+#: includes/class.yith-commissions.php:188
+msgid "Commission status not updated!"
+msgstr "Stato commissione non aggiornato!"
+
+#: includes/class.yith-commissions.php:189
+msgid "Commission status updated!"
+msgstr "Stato commissione aggiornato!"
+
+#: includes/class.yith-commissions.php:190
+msgid ""
+"Payment successful. In a few minutes you will receive an email with the "
+"outcome of the payment and the commission state will be changed accordingly."
+msgstr ""
+"Pagamento effettuato con successo. A breve riceverai un'email con il "
+"resoconto del pagamento e lo stato della commissione sarà modificato "
+"automaticamente."
+
+#: includes/class.yith-commissions.php:191
+msgid "Payment failed."
+msgstr "Pagamento fallito."
+
+#: includes/class.yith-commissions.php:226
+msgid "Paid"
+msgstr "Pagato"
+
+#: includes/class.yith-commissions.php:227
+msgid "Unpaid"
+msgstr "Non pagato"
+
+#: includes/class.yith-commissions.php:228
+msgid "Pending"
+msgstr "In attesa di pagamento"
+
+#: includes/class.yith-commissions.php:229
+#: templates/admin/commission-view.php:613
+msgid "Refunded"
+msgstr "Rimborsato"
+
+#: includes/class.yith-commissions.php:230
+msgid "Cancelled"
+msgstr "Annullato"
+
+#: includes/class.yith-commissions.php:231
+msgid "Processing"
+msgstr "In corso"
+
+#: includes/class.yith-commissions.php:290
+#: includes/class.yith-commissions.php:291
+#: includes/class.yith-commissions.php:1396
+#: includes/class.yith-vendors-admin.php:182
+msgid "Commissions"
+msgstr "Commissioni"
+
+#: includes/class.yith-commissions.php:358
+msgid "Vendor Commissions"
+msgstr "Commissioni venditore"
+
+#: includes/class.yith-commissions.php:395
+msgid "Earnings by vendor"
+msgstr ""
+
+#: includes/class.yith-commissions.php:413
+#, php-format
+msgid "Commission #%d details"
+msgstr "Dettagli commissione #%d"
+
+#: includes/class.yith-commissions.php:414
+#, php-format
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#: includes/class.yith-commissions.php:902
+#: includes/class.yith-commissions.php:903
+msgctxt "means: Vendor commission have been calculated: tax included"
+msgid "included"
+msgstr ""
+
+#: includes/class.yith-commissions.php:902
+#: includes/class.yith-commissions.php:903
+msgctxt "means: Vendor commission have been calculated: tax excluded"
+msgid "excluded"
+msgstr ""
+
+#: includes/class.yith-commissions.php:905
+msgctxt "part of: Vendor commission have been calculated: tax included"
+msgid "Vendor commission have been calculated"
+msgstr ""
+
+#: includes/class.yith-commissions.php:906
+msgctxt "part of: tax included or tax excluded"
+msgid "tax"
+msgstr ""
+
+#: includes/class.yith-commissions.php:908
+msgctxt "part of: coupon included or coupon excluded"
+msgid "coupon"
+msgstr ""
+
+#: includes/class.yith-commissions.php:1273
+#, php-format
+msgid "Refunded %s from order"
+msgstr "Rimborsato %s dall'ordine"
+
+#: includes/class.yith-commissions.php:1306
+#, php-format
+msgid "Cancelled %s refund from order"
+msgstr "Annullato rimborso di %s dall'ordine"
+
+#: includes/class.yith-commissions.php:1433 includes/class.yith-orders.php:1658
+msgid "commission_id"
+msgstr "id_commissione"
+
+#: includes/class.yith-orders.php:215
+#, php-format
+msgid "Order &ndash; %s"
+msgstr "Ordine &ndash; %s"
+
+#: includes/class.yith-orders.php:215
+msgctxt "Order date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%d %b, %Y @ %I:%M %p"
+
+#: includes/class.yith-orders.php:378
+#, php-format
+msgid "Error %d: Unable to create order. Please try again."
+msgstr ""
+
+#: includes/class.yith-orders.php:519 includes/class.yith-orders.php:902
+msgctxt "Order note"
+msgid "Update by admin: "
+msgstr "Aggiornamento dell'amministratore: "
+
+#: includes/class.yith-orders.php:895
+msgid "Delete note"
+msgstr "Cancella nota"
+
+#: includes/class.yith-orders.php:1004
+#, php-format
+msgid "Item #%s stock reduced from %s to %s."
+msgstr "Riserve articolo #%s ridotte da %s a %s."
+
+#: includes/class.yith-orders.php:1008
+#, php-format
+msgid "Item #%s stock increased from %s to %s."
+msgstr "Riserve articolo #%s aumentate da %s a %s."
+
+#: includes/class.yith-orders.php:1659
+msgid "status"
+msgstr ""
+
+#: includes/class.yith-orders.php:1726
+msgctxt "Admin: Order table column"
+msgid "Suborders"
+msgstr "Sottordini"
+
+#: includes/class.yith-orders.php:1730
+msgctxt "Admin: Order table column"
+msgid "Vendor"
+msgstr ""
+
+#: includes/class.yith-orders.php:1778 includes/class.yith-orders.php:1863
+msgctxt "Order table details"
+msgid "in"
+msgstr ""
+
+#: includes/class.yith-orders.php:1820
+msgctxt "Admin: Single order page. Suborder details box"
+msgid "Suborders"
+msgstr "Sottordini"
+
+#: includes/class.yith-orders.php:1820
+msgid ""
+"Note: from this box you can monitor the status of suborders associated to "
+"individual vendors."
+msgstr ""
+"N.B.: da questa casella puoi controllare lo stato dei sotto-ordini associati "
+"ai singoli venditori."
+
+#: includes/class.yith-orders.php:1825
+msgctxt "Admin: Single order page. Parent order details box"
+msgid "Parent order"
+msgstr "Ordine padre"
+
+#: includes/class.yith-orders.php:1832
+msgctxt "Admin: Single order page. Parent order details box"
+msgid "Parent order id"
+msgstr ""
+
+#: includes/class.yith-orders.php:1864
+#: includes/lib/class.yith-commissions-list-table.php:329
+#: templates/admin/commission-view.php:213
+msgid "Vendor deleted"
+msgstr "Venditore eliminato"
+
+#: includes/class.yith-orders.php:1875
+msgctxt "Admin: single order page. Link to parent order"
+msgid "Return to main order"
+msgstr "Torna all'ordine principale"
+
+#: includes/class.yith-orders.php:1880
+msgid ""
+"Pass this ID over to the website administrator for any communication related "
+"to this order"
+msgstr ""
+
+#: includes/class.yith-orders.php:2202
+#, php-format
+msgid "File %d"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:183
+#: includes/class.yith-vendors.php:372
+msgid "Vendors"
+msgstr "Venditori"
+
+#: includes/class.yith-vendors-admin.php:184
+#: includes/class.yith-vendors-admin.php:1091
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: includes/class.yith-vendors-admin.php:190
+#: includes/class.yith-vendors-admin.php:191
+msgid "Multi Vendor"
+msgstr "Multi Vendor"
+
+#: includes/class.yith-vendors-admin.php:443
+#, php-format
+msgid ""
+"You do not have permission to edit this product. %1$sClick here to view and "
+"edit your products%2$s."
+msgstr ""
+"Non hai le autorizzazioni necessarie per modificare questo prodotto. %1$sFai "
+"clic qui per visualizzare e modificare i tuoi prodotti%2$s."
+
+#: includes/class.yith-vendors-admin.php:450
+#, php-format
+msgid ""
+"You do not have permission to edit this order. %1$sClick here to view and "
+"edit your orders%2$s."
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:497
+#: includes/class.yith-vendors-admin.php:498
+msgid "Vendor Profile"
+msgstr "Profilo venditore"
+
+#: includes/class.yith-vendors-admin.php:570
+msgid "VAT/SSN"
+msgstr "IVA/C.F."
+
+#: includes/class.yith-vendors-admin.php:575
+#: includes/class.yith-vendors-admin.php:608
+msgid "Search for a customer&hellip;"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:617
+msgid "Search for a shop admins&hellip;"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:656
+#: includes/class.yith-vendors-admin.php:674
+msgid "A vendor with this name already exists."
+msgstr "Esiste già un venditore con questo nome."
+
+#: includes/class.yith-vendors-admin.php:657
+msgid "Vendor name already exists"
+msgstr "Questo nome venditore esiste già"
+
+#: includes/class.yith-vendors-admin.php:1003
+#, php-format
+msgid "No %s"
+msgstr "Nessun %s"
+
+#: includes/class.yith-vendors-admin.php:1086
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: includes/class.yith-vendors-admin.php:1087
+#: includes/class.yith-vendors-admin.php:1628
+msgid "Premium live demo"
+msgstr "Anteprima premium"
+
+#: includes/class.yith-vendors-admin.php:1087
+msgid "Live demo"
+msgstr "Anteprima"
+
+#: includes/class.yith-vendors-admin.php:1115
+msgid "Plugin Documentation"
+msgstr "Documentazione plugin"
+
+#: includes/class.yith-vendors-admin.php:1219
+msgid "Visit Store"
+msgstr "Visita lo store"
+
+#: includes/class.yith-vendors-admin.php:1611
+msgid "Plugin documentation"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:1618
+msgid "Discover the premium version"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:1623
+msgid "Free Vs Premium"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:1633
+msgid "WordPress support forum"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:1638
+#: includes/class.yith-vendors-admin.php:1650
+msgid "Changelog"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:1645
+msgid "Support platform"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:1650
+msgid "current version"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:1655
+msgid "PayPal sandbox test accounts"
+msgstr ""
+
+#: includes/class.yith-vendors-admin.php:1660
+msgid "Enable PayPal MassPay"
+msgstr ""
+
+#: includes/class.yith-vendors.php:370 includes/class.yith-vendors.php:371
+#: templates/admin/commission-view.php:207
+msgid "Vendor"
+msgstr "Venditore"
+
+#: includes/class.yith-vendors.php:373
+msgid "Search Vendors"
+msgstr "Cerca venditori"
+
+#: includes/class.yith-vendors.php:374
+msgid "All Vendors"
+msgstr "Tutti i venditori"
+
+#: includes/class.yith-vendors.php:375
+msgid "Parent Vendor"
+msgstr "Venditore padre"
+
+#: includes/class.yith-vendors.php:376
+msgid "Parent Vendor:"
+msgstr "Venditore padre:"
+
+#: includes/class.yith-vendors.php:377
+msgid "View Vendor"
+msgstr "Visualizza venditore"
+
+#: includes/class.yith-vendors.php:378
+msgid "Edit Vendor"
+msgstr "Modifica venditore"
+
+#: includes/class.yith-vendors.php:379
+msgid "Update Vendor"
+msgstr "Aggiorna venditore"
+
+#: includes/class.yith-vendors.php:380
+msgid "Add New Vendor"
+msgstr "Aggiungi nuovo venditore"
+
+#: includes/class.yith-vendors.php:381
+msgid "New Vendor's Name"
+msgstr "Nome nuovo venditore"
+
+#: includes/class.yith-vendors.php:383
+msgid "Separate vendors with commas"
+msgstr "Utilizza la virgola per separare i venditori"
+
+#: includes/class.yith-vendors.php:384
+msgid "Add or remove vendors"
+msgstr "Aggiungi o rimuovi venditori"
+
+#: includes/class.yith-vendors.php:385
+msgid "Choose from most used vendors"
+msgstr "Scegli tra gli shop venditori più utilizzati"
+
+#: includes/class.yith-vendors.php:386
+msgid "No vendors found"
+msgstr "Nessun venditore trovato"
+
+#: includes/lib/class.yith-commissions-list-table.php:59
+msgid "ID"
+msgstr "ID"
+
+#: includes/lib/class.yith-commissions-list-table.php:60
+#: templates/admin/commission-view.php:172
+msgid "Status"
+msgstr "Stato"
+
+#: includes/lib/class.yith-commissions-list-table.php:61
+msgid "Order"
+msgstr "Ordine"
+
+#: includes/lib/class.yith-commissions-list-table.php:62
+msgid "Product"
+msgstr "Prodotto"
+
+#: includes/lib/class.yith-commissions-list-table.php:63
+#: templates/admin/commission-view.php:585
+msgid "Rate"
+msgstr "Tasso"
+
+#: includes/lib/class.yith-commissions-list-table.php:64
+msgid "User"
+msgstr "Utente"
+
+#: includes/lib/class.yith-commissions-list-table.php:66
+#: templates/admin/premium.php:849
+msgid "IBAN/BIC"
+msgstr ""
+
+#: includes/lib/class.yith-commissions-list-table.php:67
+msgid "Amount"
+msgstr "Importo"
+
+#: includes/lib/class.yith-commissions-list-table.php:68
+#: templates/admin/commission-view.php:176
+msgid "Date"
+msgstr "Data"
+
+#: includes/lib/class.yith-commissions-list-table.php:69
+#: templates/admin/commission-view.php:180
+msgid "Last update"
+msgstr "Ultimo aggiornamento"
+
+#: includes/lib/class.yith-commissions-list-table.php:70
+#: templates/admin/commission-view.php:52
+msgid "Actions"
+msgstr "Azioni"
+
+#: includes/lib/class.yith-commissions-list-table.php:225
+msgid "Order Deleted"
+msgstr "Ordine eliminato"
+
+#: includes/lib/class.yith-commissions-list-table.php:258
+#: templates/admin/commission-view.php:139
+msgid "Guest"
+msgstr "Ospite"
+
+#: includes/lib/class.yith-commissions-list-table.php:280
+#, php-format
+msgctxt "Order number by user"
+msgid "%s by %s"
+msgstr "%s per %s"
+
+#: includes/lib/class.yith-commissions-list-table.php:294
+msgctxt "[admin]: commission type"
+msgid "Shipping fee"
+msgstr ""
+
+#: includes/lib/class.yith-commissions-list-table.php:317
+#: templates/admin/commission-view.php:202
+msgid "User deleted"
+msgstr "Utente eliminato"
+
+#: includes/lib/class.yith-commissions-list-table.php:350
+msgid "View"
+msgstr "Visualizza"
+
+#: includes/lib/class.yith-commissions-list-table.php:355
+#: includes/lib/class.yith-commissions-list-table.php:373
+#: templates/admin/commission-view.php:183
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: includes/lib/class.yith-commissions-list-table.php:362
+#: includes/lib/class.yith-commissions-list-table.php:380
+#: templates/admin/commission-view.php:184
+#, php-format
+msgid "%s ago"
+msgstr "%s fa"
+
+#: includes/lib/class.yith-commissions-list-table.php:365
+#: includes/lib/class.yith-commissions-list-table.php:382
+msgid "Y/m/d"
+msgstr "Y/m/d"
+
+#: includes/lib/class.yith-commissions-list-table.php:414
+msgid "No commissions found."
+msgstr "Nessuna commissione trovata."
+
+#: includes/widgets/class.yith-woocommerce-vendors-widget.php:29
+msgid "YITH Vendor List"
+msgstr "YITH Elenco Venditori"
+
+#: includes/widgets/class.yith-woocommerce-vendors-widget.php:31
+msgid "Display the list with enabled vendors."
+msgstr "Mostra un elenco con i venditori abilitati."
+
+#: includes/widgets/class.yith-woocommerce-vendors-widget.php:74
+msgid "Vendor List"
+msgstr "Elenco venditori"
+
+#: includes/widgets/class.yith-woocommerce-vendors-widget.php:83
+msgid "Title"
+msgstr "Titolo"
+
+#: includes/widgets/class.yith-woocommerce-vendors-widget.php:88
+msgid "Hide this widget on vendor page"
+msgstr "Nascondi questo widget nelle pagine venditore"
+
+#: includes/widgets/class.yith-woocommerce-vendors-widget.php:93
+msgid "Vendor's products amount"
+msgstr "Quantità di prodotti del venditore"
+
+#: includes/widgets/class.yith-woocommerce-vendors-widget.php:98
+msgid "Hide vendors with no products"
+msgstr "Nascondi venditori che non hanno prodotti"
+
+#: init.php:34
+msgid ""
+"YITH WooCommerce Multi Vendor is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Multi Vendor è abilitato ma non in funzione. Devi aver "
+"installato WooCommerce per farlo funzionare."
+
+#: plugin-options/commissions-options.php:20
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+#: plugin-options/commissions-options.php:27
+msgid "Commission Base"
+msgstr "Commissione base"
+
+#: plugin-options/commissions-options.php:30
+msgid "Default commission percentage"
+msgstr "Percentuale commissione di base"
+
+#: plugin-options/vendors-options.php:20
+msgid "Product management"
+msgstr "Gestione prodotti"
+
+#: plugin-options/vendors-options.php:27
+msgid "Vendor name label color"
+msgstr "Colore nome venditore"
+
+#: plugin-options/vendors-options.php:29
+msgid "Use in shop page and single product page"
+msgstr "Usa nella pagina shop e nella pagina singolo prodotto"
+
+#: plugin-options/vendors-options.php:43
+msgid "Order management"
+msgstr "Gestione ordine"
+
+#: plugin-options/vendors-options.php:50
+msgid "Enable order management"
+msgstr "Abilita gestione ordine"
+
+#: plugin-options/vendors-options.php:52
+msgid ""
+"If you enable this option, each vendor will be able to manage orders on his/"
+"her own products independently."
+msgstr ""
+"Se abiliti questa opzione, ogni venditore sarà abilitato a gestire gli "
+"ordini dei suoi prodotti indipendentemente."
+
+#: plugin-options/vendors-options.php:58
+msgid "Order synchronization"
+msgstr "Sincronizzazione ordini"
+
+#: plugin-options/vendors-options.php:60
+msgid ""
+"All changes to general orders will be synchronized with the individual "
+"vendor's order"
+msgstr ""
+"Ogni modifica agli ordini generali sarà sincronizzata con l'ordine del "
+"singolo venditore"
+
+#: templates/admin/add-product-vendors-taxonomy.php:12
+#: templates/admin/edit-product-vendors-taxonomy.php:13
+msgid "Vendor Shop Owner"
+msgstr "Proprietario pagina venditore"
+
+#: templates/admin/add-product-vendors-taxonomy.php:17
+#: templates/admin/edit-product-vendors-taxonomy.php:24
+msgid "PayPal email address"
+msgstr "Indirizzo email PayPal"
+
+#: templates/admin/add-product-vendors-taxonomy.php:19
+#: templates/admin/edit-product-vendors-taxonomy.php:29
+msgid "Vendor's PayPal email address where profits will be delivered."
+msgstr "Indirizzo email PayPal del venditore su cui inviare i pagamenti."
+
+#: templates/admin/add-product-vendors-taxonomy.php:23
+#: templates/admin/edit-product-vendors-taxonomy.php:35
+msgid "Enable sales"
+msgstr "Abilita vendita"
+
+#: templates/admin/add-product-vendors-taxonomy.php:25
+#: templates/admin/edit-product-vendors-taxonomy.php:41
+msgid "Enable or disable product sales."
+msgstr "Abilita o disabilità vendite prodotto."
+
+#: templates/admin/add-product-vendors-taxonomy.php:30
+#: templates/admin/edit-product-vendors-taxonomy.php:48
+msgid "Commission:"
+msgstr "Commissione"
+
+#: templates/admin/add-product-vendors-taxonomy.php:34
+msgid "Percentage of the total sale price that this vendor receives"
+msgstr "Percentuale del prezzo di vendita totale che riceve questo venditore"
+
+#: templates/admin/commission-view.php:32
+msgid "View Commission"
+msgstr "Visualizza commissione"
+
+#: templates/admin/commission-view.php:33
+msgid "Back"
+msgstr "Indietro"
+
+#: templates/admin/commission-view.php:46
+msgid "Commission Actions"
+msgstr "Azioni su commissioni"
+
+#: templates/admin/commission-view.php:54
+#, php-format
+msgid "Change to %s"
+msgstr "Cambia con %s"
+
+#: templates/admin/commission-view.php:60
+msgid "Apply"
+msgstr "Applica"
+
+#: templates/admin/commission-view.php:69
+msgid "Commission notes"
+msgstr "Note di commissione"
+
+#: templates/admin/commission-view.php:80
+#, php-format
+msgid "added on %1$s at %2$s"
+msgstr "aggiunti il %1$s alle %2$s"
+
+#: templates/admin/commission-view.php:85
+msgid "There are no notes yet."
+msgstr "Ancora non sono presenti note."
+
+#: templates/admin/commission-view.php:107
+msgctxt "[admin] part of commission details"
+msgid "Commission"
+msgstr ""
+
+#: templates/admin/commission-view.php:107
+msgctxt "[admin] part of shipping fee details"
+msgid "Shipping fee"
+msgstr ""
+
+#: templates/admin/commission-view.php:108
+msgctxt "[admin] part of commission details"
+msgid "details"
+msgstr ""
+
+#: templates/admin/commission-view.php:162
+#, php-format
+msgctxt "Commission credited to [user]"
+msgid "credited to %s &#8212; from order %s &#8212; order status: %s"
+msgstr "accreditata a %s &#8212; dall'ordine %s &#8212; stato dell'ordine: %s"
+
+#: templates/admin/commission-view.php:169
+msgid "General details"
+msgstr "Dettagli"
+
+#: templates/admin/commission-view.php:194
+msgid "User details"
+msgstr "Dettaglio utente"
+
+#: templates/admin/commission-view.php:199
+msgid "Email"
+msgstr "Email"
+
+#: templates/admin/commission-view.php:218
+msgid "PayPal"
+msgstr "PayPal"
+
+#: templates/admin/commission-view.php:222
+msgid "Email address not set "
+msgstr ""
+
+#: templates/admin/commission-view.php:230
+msgid "Billing information"
+msgstr "Informazioni di fatturazione"
+
+#: templates/admin/commission-view.php:257
+msgid "Shipping information"
+msgstr "Informazioni di spedizione"
+
+#: templates/admin/commission-view.php:293
+msgid "Item data"
+msgstr "Dati articolo"
+
+#: templates/admin/commission-view.php:302
+msgid "Item"
+msgstr "Articolo"
+
+#: templates/admin/commission-view.php:304
+msgid "Cost"
+msgstr "Costo"
+
+#: templates/admin/commission-view.php:305
+msgid "Qty"
+msgstr "Qtà"
+
+#: templates/admin/commission-view.php:306
+#: templates/admin/commission-view.php:620
+msgid "Total"
+msgstr ""
+
+#: templates/admin/commission-view.php:311
+#: templates/admin/commission-view.php:312
+msgid "Tax"
+msgstr ""
+
+#: templates/admin/commission-view.php:337
+msgid "Product ID:"
+msgstr "ID prodotto:"
+
+#: templates/admin/commission-view.php:340
+#: templates/admin/commission-view.php:342
+msgid "Variation ID:"
+msgstr "ID variazione:"
+
+#: templates/admin/commission-view.php:342
+msgid "No longer exists"
+msgstr "Non esiste più"
+
+#: templates/admin/commission-view.php:346
+msgid "Product SKU:"
+msgstr "Codice SKU prodotto:"
+
+#: templates/admin/commission-view.php:503
+msgid "Pre-discount:"
+msgstr ""
+
+#: templates/admin/commission-view.php:507
+msgid "Total:"
+msgstr ""
+
+#: templates/admin/commission-view.php:531
+msgid "Refund"
+msgstr "Rimborso"
+
+#: templates/admin/commission-view.php:561
+msgid "Coupon(s) Used"
+msgstr "Coupon utilizzati"
+
+#: templates/admin/commission-view.php:594
+msgid "Commission"
+msgstr "Commissione"
+
+#: templates/admin/commissions.php:24
+msgid "Search commissions"
+msgstr "Cerca commissioni"
+
+#: templates/admin/edit-product-vendors-taxonomy.php:18
+msgid "User that can manage products in this shop and view sale reports."
+msgstr ""
+"Utente che può gestire i prodotti in questo shop e visualizzare i report "
+"delle vendite."
+
+#: templates/admin/edit-product-vendors-taxonomy.php:54
+msgid "Percentage of the total sale price that this vendor receives."
+msgstr ""
+"Percentuale sul prezzo totale del prodotto che riceve questo venditore."
+
+#: templates/admin/premium.php:239 templates/admin/premium.php:977
+#, php-format
+msgid ""
+"Upgrade to the %1$spremium version%2$s of %1$sYITH WooCommerce Multi Vendor"
+"%2$s to benefit from all features!"
+msgstr ""
+
+#: templates/admin/premium.php:243 templates/admin/premium.php:981
+#, php-format
+msgid "%1$s UPGRADE %2$s %3$s to the premium version %2$s"
+msgstr ""
+
+#: templates/admin/premium.php:250
+msgid "Premium Features"
+msgstr ""
+
+#: templates/admin/premium.php:259
+msgid "A richer vendor shop page"
+msgstr ""
+
+#: templates/admin/premium.php:262
+#, php-format
+msgid ""
+"The vendor page gets more details!Vendors will be able to add their %s "
+"contact details %s (email, address, phone number) and the most common social "
+"network profiles (Facebook, Twitter, Google+, LinkedIn and YouTube)"
+msgstr ""
+
+#: templates/admin/premium.php:265
+#, php-format
+msgid ""
+"These pieces of information are gathered in the page of every vendor shop "
+"with a %sheader%s where style and images can be customized."
+msgstr ""
+
+#: templates/admin/premium.php:276
+msgid "One or more administrators for every vendor shop"
+msgstr ""
+
+#: templates/admin/premium.php:279
+#, php-format
+msgid ""
+"The administrators of the vendor shop are one of the most important new "
+"features.%s They are simple registered users of the shop that have been "
+"admitted to %smanage the products%s and all the information about a vendor "
+"shop by the administrator of the store or the owner of the vendor shop."
+msgstr ""
+
+#: templates/admin/premium.php:282
+#, php-format
+msgid ""
+"The only element they can't change is the %stype of payment%s that only "
+"administrator of the store or the owner of the vendor shop can set."
+msgstr ""
+
+#: templates/admin/premium.php:299
+msgid "Direct product sale"
+msgstr ""
+
+#: templates/admin/premium.php:302
+#, php-format
+msgid ""
+"Thanks to the %s\"Skip Admin review\"%s option, vendors can publish new "
+"products without the store administrator approval. This option can be "
+"applied to all the vendor shops, or just to the selected ones."
+msgstr ""
+
+#: templates/admin/premium.php:313
+msgid "Actions for commissions"
+msgstr ""
+
+#: templates/admin/premium.php:316
+msgid ""
+"A commissions table with more details to be always up-to-date. Every "
+"commission offers a set of buttons to quickly proceed to the PayPal payments "
+"(if set as manual), or to change the state of the commission."
+msgstr ""
+
+#: templates/admin/premium.php:333 templates/admin/premium.php:367
+msgid "Variable commission rates"
+msgstr ""
+
+#: templates/admin/premium.php:336 templates/admin/premium.php:370
+#, php-format
+msgid ""
+"%sNo more single commission rate for all the vendor shops:%s in the premium "
+"version of the plugin, this rate can be modified for every single vendor "
+"shop and for every product associated."
+msgstr ""
+
+#: templates/admin/premium.php:347
+msgid "Coupon handling"
+msgstr "Gestione coupon"
+
+#: templates/admin/premium.php:350
+#, php-format
+msgid ""
+"If users use a coupon during a purchase, how will vendor commissions be "
+"calculated? It's up to you: with the %s\"Coupon handling\"%s option, you can "
+"decide whether you want to calculate the commission for the discounted total "
+"or not."
+msgstr ""
+
+#: templates/admin/premium.php:381
+msgid "COUPON CREATION"
+msgstr ""
+
+#: templates/admin/premium.php:384
+#, php-format
+msgid ""
+"With the option %s \"Enable coupon management\" %s, the vendors of your shop "
+"can create coupons regarding the products they own. A nice innovation to "
+"offer to your vendor-users."
+msgstr ""
+
+#: templates/admin/premium.php:401
+msgid "REVIEWS"
+msgstr ""
+
+#: templates/admin/premium.php:404
+#, php-format
+msgid ""
+" Just like coupons, this option is tailored on the need to manage reviews "
+"and it has been added to the premium version of the plugin. Activating the %s"
+"\"Enable review management\"%s option from the option panel of the plugin, "
+"vendors will be free to manage the reviews of the products they own, and act "
+"with the same privileges of the administrator of the store."
+msgstr ""
+
+#: templates/admin/premium.php:415
+msgid "Advanced reports"
+msgstr ""
+
+#: templates/admin/premium.php:418
+#, php-format
+msgid ""
+"Statistics have a central relevance in the e-commerce field and WooCommerce "
+"Multi Vendor offers you different reports to %sanalyze your data%s: from the "
+"most lucrative vendors, to the best sellers, including convenient commission "
+"diagrams for each of them."
+msgstr ""
+
+#: templates/admin/premium.php:435
+msgid "CSV exportation of the reports"
+msgstr ""
+
+#: templates/admin/premium.php:438
+#, php-format
+msgid ""
+"For each report, %syou can export its data in the CSV format%s: in this way, "
+"you will be free to use all the report details in every fields not "
+"expressively related to WordPress."
+msgstr ""
+
+#: templates/admin/premium.php:449
+msgid "Vendor's product exclusion from the shop (Product listing)"
+msgstr ""
+
+#: templates/admin/premium.php:452
+#, php-format
+msgid ""
+"The %s\"Product listing\"%s option has been conceived to exclude from the "
+"shop the products of a particular vendor. In this way, these would be "
+"consultable only from the relative vendor's page."
+msgstr ""
+
+#: templates/admin/premium.php:469
+msgid "Complete list of vendors "
+msgstr ""
+
+#: templates/admin/premium.php:472
+#, php-format
+msgid ""
+"The YITH Vendor List widget allows showing the complete list of all the "
+"vendors available on your site. %1$sA fast way to have access to the vendor "
+"detail page%2$s in whom they are interested."
+msgstr ""
+
+#: templates/admin/premium.php:482
+msgid "Vendor location "
+msgstr ""
+
+#: templates/admin/premium.php:485
+msgid "Would you like to help your users to reach your store in an easy way? "
+msgstr ""
+
+#: templates/admin/premium.php:488
+#, php-format
+msgid ""
+"Just add the widget %1$sYITH Vendor Store Location%2$s to the vendor page "
+"sidebar. The system will show a different %1$sGoogle map%2$s on each shop "
+"detail page calculated basing on the address inserted in the vendor's "
+"profile."
+msgstr ""
+
+#: templates/admin/premium.php:505
+msgid "In contact with the vendor..."
+msgstr ""
+
+#: templates/admin/premium.php:508
+msgid ""
+"Simplify the exchange of information between buyer and vendor thanks to the "
+"related contact form."
+msgstr ""
+
+#: templates/admin/premium.php:511
+#, php-format
+msgid ""
+"The form shows both in the sidebars of the shop and/or product detail pages. "
+"%3$s %1$sThe message sent by the user is forwarded directly to the vendor"
+"%2$s without any intermediary. "
+msgstr ""
+
+#: templates/admin/premium.php:521
+msgid "Shortcode"
+msgstr ""
+
+#: templates/admin/premium.php:524
+msgid ""
+"Take advantage of the YITH WooCommerce Multi Vendor List shortcode to show "
+"the complete list of your shop vendors in any page."
+msgstr ""
+
+#: templates/admin/premium.php:541
+msgid "VISUALIZATION OF THE VENDOR'S NAME"
+msgstr ""
+
+#: templates/admin/premium.php:544
+msgid ""
+"The default setting of the plugin shows the name of each vendor in three "
+"pages of your site: the shop page, the product detail page and product "
+"category page. Now you can decide whether you want to show their name and "
+"hide them whenever you want with three different options."
+msgstr ""
+
+#: templates/admin/premium.php:554
+msgid "VENDOR REGISTRATION"
+msgstr ""
+
+#: templates/admin/premium.php:557
+#, php-format
+msgid ""
+"A more dynamic management for whoever wants to become a vendor in your "
+"store. It doesn't matter whether you are a registered user or a new one: "
+"everyone will be free to register as a vendor with the related "
+"%1$sregistration form.%2$s Following your settings, the registration request "
+"can be accepted automatically or manually by administrators"
+msgstr ""
+
+#: templates/admin/premium.php:574
+msgid "RESTRICTED NUMBER OF PRODUCTS"
+msgstr ""
+
+#: templates/admin/premium.php:577
+msgid ""
+"The option \"Enable product amount limit\" has been conceived to whoever "
+"would like to limit the creation of products of the shop vendors, with the "
+"freedom to indicate a specific maximum number of products that each vendor "
+"can create."
+msgstr ""
+
+#: templates/admin/premium.php:587
+msgid "BULK ACTIONS ON VENDORS"
+msgstr ""
+
+#: templates/admin/premium.php:590
+msgid ""
+"How many times did you find yourself annoyed by the repetition of the same "
+"passages with a huge waste of time? Well, now vendors management is "
+"completely renewed! You will be able to apply bulk actions on all the "
+"registered vendors, approving or deleting them all together with just one "
+"click."
+msgstr ""
+
+#: templates/admin/premium.php:606
+msgid "Advanced administration area for each vendor"
+msgstr ""
+
+#: templates/admin/premium.php:609
+msgid ""
+"A breath of fresh air for the \"vendor users\" that can take advantage of a "
+"big and advanced administrative area. From this place, they will be free to "
+"consult the reports about their products,change their profile information "
+"and choose the payment method they prefer. Each vendor can also check the "
+"commissions table, with the whole sum of the relative commissions up to that "
+"moment."
+msgstr ""
+
+#: templates/admin/premium.php:619
+msgid "ABUSE REPORT"
+msgstr ""
+
+#: templates/admin/premium.php:622
+msgid ""
+"With this feature, your users will be able to send you a message about one "
+"of the products of your shop with a dedicated form that will open in a popup "
+"within the related product detail page."
+msgstr ""
+
+#: templates/admin/premium.php:638
+msgid "Second email"
+msgstr ""
+
+#: templates/admin/premium.php:641
+msgid ""
+"Each time that a new order is registered or cancelled, a notification email "
+"is sent to the corresponding vendor. This sending can sometimes be affected "
+"by some problems, and this is why you should be able to send again the lost "
+"email. With the premium version of the plugin, you will just have to go to "
+"the detail page of the order and with a single click everything will be "
+"solved."
+msgstr ""
+
+#: templates/admin/premium.php:651
+msgid "Minimum amount of commissions"
+msgstr ""
+
+#: templates/admin/premium.php:654
+msgid ""
+"If each vendor can decide a commission threshold for which asking the "
+"payment, administrators must be free to control how this works.Setting a "
+"minimum amount of commissions, you will be free to pay commissions starting "
+"from the amount you have set."
+msgstr ""
+
+#: templates/admin/premium.php:670
+msgid "Highlighted products"
+msgstr ""
+
+#: templates/admin/premium.php:673
+msgid ""
+"Setting a WooCommerce product as \"Featured\" means standing it out among "
+"the others, maybe putting it in the main part of the homepage, or in one of "
+"the widgets of the siderbars of your shop. With the related option, you will "
+"be free to allow or block vendors to set their products as \"featured\"."
+msgstr ""
+
+#: templates/admin/premium.php:683
+msgid "Sales amount"
+msgstr "Importo di vendita"
+
+#: templates/admin/premium.php:686
+msgid ""
+"Enrich your shop with more information. Show the amount of sales made by "
+"each vendor, placing it in the detail page of the related product, and for "
+"each single product assigned to a vendor."
+msgstr ""
+
+#: templates/admin/premium.php:702
+msgid "Shop closed"
+msgstr ""
+
+#: templates/admin/premium.php:705
+msgid ""
+"Even the owners of online shops need a break, maybe for deserved vacations "
+"or for other reasons. Therefore, when administrators offers this freedom to "
+"their vendors, they will be free to close their stores, showing a customized "
+"message to users. Vendors will also be free to decide whether they want to "
+"keep their products purchasable, or showing them in catalogue mode with no "
+"opportunity to add them to the cart. "
+msgstr ""
+
+#: templates/admin/premium.php:715
+msgid "Vendor Chat"
+msgstr ""
+
+#: templates/admin/premium.php:718
+#, php-format
+msgid ""
+"Thanks to the integration with %1$sYITH Live Chat%2$s, vendors of your site "
+"will be free to answer immediately to their customers' questions. In this "
+"way, vendors and purchasers will be even nearer, for a complete success of "
+"your e-commerce."
+msgstr ""
+
+#: templates/admin/premium.php:734
+msgid "VAT numbers"
+msgstr ""
+
+#: templates/admin/premium.php:737
+msgid ""
+"If you need the VAT number of your vendors, make it mandatory during the "
+"registration. In this way, no request to become vendor could be completed "
+"without adding the VAT number, as this can also be showed in the related "
+"detailed vendor's page."
+msgstr ""
+
+#: templates/admin/premium.php:747
+msgid "Refund management"
+msgstr ""
+
+#: templates/admin/premium.php:750
+msgid ""
+"Now refund management can be designated to the vendors of your shop. In "
+"fact, they will be able to refund partially or totally users about the "
+"products they own, with a related recalculation of the commissions received. "
+"Another way to empower your vendors about the management of their shops."
+msgstr ""
+
+#: templates/admin/premium.php:766
+msgid "VENDOR TAXONOMY"
+msgstr ""
+
+#: templates/admin/premium.php:769
+#, php-format
+msgid ""
+"With a specific option, %1$svendor taxonomy slug%2$s becomes customizable "
+"according to your needs."
+msgstr ""
+
+#: templates/admin/premium.php:779
+msgid "VENDOR LOGO"
+msgstr ""
+
+#: templates/admin/premium.php:782
+msgid ""
+"Vendors might wish to show their own logo, but not all vendors have one. "
+"This is the reason why you can give them the chance to add it or not in "
+"their shop pages. If you prefer to have an uniform style in your site, you "
+"can also choose to hide all your vendors’ logos."
+msgstr ""
+
+#: templates/admin/premium.php:785
+msgid ""
+" If you prefer to have an suniform style in your site, you can also choose "
+"to hide all your vendors’ logos."
+msgstr ""
+
+#: templates/admin/premium.php:801
+msgid "USERS PRIVACY"
+msgstr ""
+
+#: templates/admin/premium.php:804
+msgid ""
+"Protect your customers' privacy! With a specific option of the plugin, you "
+"can hide \"Customer\" search section in order detail page, so that other "
+"vendors won’t have access to your customers email addresses."
+msgstr ""
+
+#: templates/admin/premium.php:814
+msgid "Advanced editor"
+msgstr ""
+
+#: templates/admin/premium.php:817
+msgid ""
+"All vendors can have WordPress advanced editor so that they can add a richer "
+"description of their shop by inserting HTML tags and images."
+msgstr ""
+
+#: templates/admin/premium.php:830
+msgid "LEGAL NOTES"
+msgstr ""
+
+#: templates/admin/premium.php:833
+msgid ""
+"Each vendor of your shop can insert important legal notes in their reserved "
+"area, which will be shown with the other profile information in vendor "
+"detail page."
+msgstr ""
+
+#: templates/admin/premium.php:852
+msgid ""
+"By giving your users the possibility to add their IBAN/BIC code, it will be "
+"much easier to pay their commissions by bank transfer when requested.  "
+msgstr ""
+
+#: templates/admin/premium.php:862
+msgid "TERMS AND CONDITIONS"
+msgstr ""
+
+#: templates/admin/premium.php:865
+msgid ""
+"Ask to users who wish to become vendors in your shop, to accept \"terms and "
+"conditions\" during their registration, which, in case of non-acceptance, "
+"could not be completed."
+msgstr ""
+
+#: templates/admin/premium.php:881
+msgid "WordPress gallery"
+msgstr ""
+
+#: templates/admin/premium.php:884
+msgid ""
+"All the functionalities of WordPress gallery made available to vendors. From "
+"now on, they could add and manage media in relation to the products they "
+"own, by creating image galleries to outstand important details to make a "
+"difference on market."
+msgstr ""
+
+#: templates/admin/premium.php:894
+msgid "Vendors menu"
+msgstr ""
+
+#: templates/admin/premium.php:897
+msgid ""
+"Each vendor can be managed by menu field in order to create the list of all "
+"vendors of the shop and include it, for example, within the main navigation "
+"of your site"
+msgstr ""
+
+#: templates/admin/premium.php:913
+msgid "Google API Key"
+msgstr ""
+
+#: templates/admin/premium.php:916
+msgid ""
+"Does your site generate a huge amount of traffic that interferes with Google "
+"Maps services? Register a Google account and insert the required API KEY so "
+"that you could work around, for example, the limitation of the number of "
+"permitted visits for the maps integrated on your site"
+msgstr ""
+
+#: templates/admin/premium.php:926
+msgid "Massive assignment "
+msgstr ""
+
+#: templates/admin/premium.php:929
+msgid ""
+"Time is money! Don’t waste it! No more repeated actions to assign more "
+"products to the same vendor. From now on you can optimize your time thanks "
+"to the massive assignment allowed by the plugin with just one click."
+msgstr ""
+
+#: templates/admin/premium.php:945
+msgid "User switch"
+msgstr ""
+
+#: templates/admin/premium.php:948
+msgid ""
+"Thanks to this feature, you can access the dashboard of your site as a "
+"vendor. This allows having the same view vendors registered on your store "
+"have and verifying any notified issue "
+msgstr ""
+
+#: templates/admin/premium.php:958
+msgid "Enable shipping for vendors"
+msgstr ""
+
+#: templates/admin/premium.php:961
+#, php-format
+msgid ""
+"Thanks to the shipping module, you can %1$slet vendors manage shipping costs"
+"%2$s for their own products. "
+msgstr ""
+
+#: templates/admin/premium.php:964
+msgid ""
+"Vendors can create shipping zones and apply the related costs directly from "
+"their dashboard."
+msgstr ""
+
+#: templates/admin/vendor-admin.php:17
+msgid "Vendor Details"
+msgstr "Dettagli venditore"
+
+#: templates/admin/vendor-admin.php:24
+msgid "Name:"
+msgstr "Nome:"
+
+#: templates/admin/vendor-admin.php:29
+msgid "Slug:"
+msgstr "Slug:"
+
+#: templates/admin/vendor-admin.php:34
+msgid "PayPal email address:"
+msgstr ""
+
+#: templates/admin/vendor-admin.php:39
+msgid "Description:"
+msgstr "Descrizione:"
+
+#: templates/admin/vendor-admin.php:45
+msgid "Commission Rate: "
+msgstr "Tasso di commissione:"
+
+#: templates/admin/vendor-admin.php:52
+msgid "Vendor's selling status: "
+msgstr ""
+
+#: templates/admin/vendor-admin.php:54
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: templates/admin/vendor-admin.php:54
+msgid "Disabled"
+msgstr "Disabilitato"
+
+#: templates/admin/vendor-admin.php:60
+msgid "Save Vendor Information"
+msgstr ""
+
+#: templates/woocommerce/loop/vendor-name-title.php:20
+#: templates/woocommerce/single-product/vendor-name-title.php:20
+msgid "by"
+msgstr "da"
+
+#~ msgid "Commission %s Details"
+#~ msgstr "Dettagli commissione %s"
+
+#~ msgid ""
+#~ "User that can manage products in this vendor shop and view sale reports."
+#~ msgstr ""
+#~ "Utente che può gestire i prodotti in questa pagina venditore e "
+#~ "visualizzarne i report delle vendite."
+
+#~ msgid "Commission date"
+#~ msgstr "Data della commissione"
+
+#~ msgid "in"
+#~ msgstr "in"
+
+#~ msgid "Search users"
+#~ msgstr "Cerca utenti"
+
+#~ msgid "Sale Commissions"
+#~ msgstr "Commissioni vendita"
+
+#~ msgid "Vendor Sales"
+#~ msgstr "Vendite"
+
+#~ msgid "Registered Vendors"
+#~ msgstr "Venditori registrati"
+
+#~ msgid "Export CSV"
+#~ msgstr "Esporta CSV"
+
+#~ msgid "Year"
+#~ msgstr "Anno"
+
+#~ msgid "Last Month"
+#~ msgstr "Mese precedente"
+
+#~ msgid "This Month"
+#~ msgstr "Questo mese"
+
+#~ msgid "Last 7 Days"
+#~ msgstr "Ultimi 7 giorni"
+
+#~ msgid "Payments"
+#~ msgstr "Pagamenti"
+
+#~ msgid "Frontpage"
+#~ msgstr "Front page"
+
+#~ msgid "Reports"
+#~ msgstr "Report"
+
+#~ msgid "Front page"
+#~ msgstr "Pagina principale"
+
+#~ msgid "Vendor settings"
+#~ msgstr "Impostazioni venditore"
+
+#~ msgid "Choose an image"
+#~ msgstr "Seleziona un\\'immagine"
+
+#~ msgid "Use image"
+#~ msgstr "Usa immagine"
+
+#~ msgid "Registration date"
+#~ msgstr "Data di registrazione"
+
+#~ msgid "Owner"
+#~ msgstr "Proprietario"
+
+#~ msgid "Enable"
+#~ msgstr "Attiva"
+
+#~ msgid "Items"
+#~ msgstr "Articoli"
+
+#~ msgid "Set an owner"
+#~ msgstr "Imposta un proprietario"
+
+#~ msgid "Edit extra info"
+#~ msgstr "Modifica informazioni extra"
+
+#~ msgid "Approve"
+#~ msgstr "Approva"
+
+#~ msgid "Disable sales"
+#~ msgstr "Disabilita vendita"
+
+#~ msgid "Instant Payment"
+#~ msgstr "Pagamento istantaneo"
+
+#~ msgid "Payment threshold"
+#~ msgstr "Soglia di pagamento"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Google+"
+#~ msgstr "Google+"
+
+#~ msgid "Linkedin"
+#~ msgstr "LinkedIn"
+
+#~ msgid "Youtube"
+#~ msgstr "Youtube"
+
+#~ msgid ""
+#~ "Are you sure? If you click \"YES\" you change skip review option for each "
+#~ "vendor"
+#~ msgstr ""
+#~ "Sei sicuro? Se scegli \"Sì\" modificherai l'opzione per ignorare le "
+#~ "recensioni per ogni venditore"
+
+#~ msgid ""
+#~ "If you continue, the commission will be paid automatically to the vendor "
+#~ "via PayPal. Do you want to continue?"
+#~ msgstr ""
+#~ "Se procedi, la commissione verrà pagata automaticamente al venditore "
+#~ "tramite PayPal. Vuoi procedere?"
+
+#~ msgid "Payment failed: %s"
+#~ msgstr "Pagamento fallito: %s"
+
+#~ msgid "Product commission"
+#~ msgstr "Commissione prodotto"
+
+#~ msgid ""
+#~ "You can set a specific commission for a single product. Keep this field "
+#~ "blank or zero to use the vendor commission"
+#~ msgstr ""
+#~ "Puoi impostare una commissione specifica per un singolo prodotto. "
+#~ "Inserisci zero o lascia il campo vuoto per utilizzare la commissione del "
+#~ "venditore."
+
+#~ msgid ""
+#~ "You do not have sufficient permissions to access this page. %1$sClick "
+#~ "here to return in your dashboard%2$s."
+#~ msgstr ""
+#~ "Non hai le autorizzazioni necessarie per accedere a questa pagina. "
+#~ "%1$sFai clic qui per tornare alla tua dashboard%2$s."
+
+#~ msgid ""
+#~ "You are not allowed to create more than %1$s products. %2$sClick here to "
+#~ "return in your admin area%3$s."
+#~ msgstr ""
+#~ "Non sei autorizzato a creare più di %1$s prodotti. %2$sFai clic qui per "
+#~ "tornare alla tua pagina di amministrazione%3$s."
+
+#~ msgid ""
+#~ "You do not have permission to edit this post. %1$sClick here to view your "
+#~ "dashboard%2$s."
+#~ msgstr ""
+#~ "Non sei in possesso di autorizzazioni sufficienti per modificare questo "
+#~ "articolo. %1$sFai clic qui per visualizzare la tua dashboard%2$s."
+
+#~ msgid ""
+#~ "You do not have permission to edit this coupon. %1$sClick here to view "
+#~ "and edit your coupons%2$s."
+#~ msgstr ""
+#~ "Non hai le autorizzazioni necessarie per modificare questo coupon. "
+#~ "%1$sFai clic qui per visualizzare e modificare i tuoi coupon%2$s."
+
+#~ msgid ""
+#~ "You do not have permission to edit this review. %1$sClick here to view "
+#~ "and edit your product reviews%2$s."
+#~ msgstr ""
+#~ "Non ha le autorizzazioni per modificare questa recensione. %1$sClicca qui "
+#~ "per visualizzare e modificare le tue recensioni prodotto%2$s."
+
+#~ msgid "Recent reviews"
+#~ msgstr "Recensioni recenti"
+
+#~ msgid "Recent comments"
+#~ msgstr "Commenti recenti"
+
+#~ msgid "Comments"
+#~ msgstr "Commenti"
+
+#~ msgid "No activity yet!"
+#~ msgstr "Ancora non è stata svolta alcuna attività"
+
+#~ msgid "out of 5"
+#~ msgstr "di 5"
+
+#~ msgid "reviewed by"
+#~ msgstr "recensito da"
+
+#~ msgid "There are no product reviews yet."
+#~ msgstr "Non è presente alcuna recensione prodotto."
+
+#~ msgctxt "Order details: Product sold by"
+#~ msgid "Sold by"
+#~ msgstr "Venduto da"
+
+#~ msgid "Warning: "
+#~ msgstr "Attenzione:"
+
+#~ msgid ""
+#~ "vendor shops have no owner set. Please, set an owner for each vendor shop "
+#~ "in order to enable them"
+#~ msgstr ""
+#~ "non è stato impostato un proprietario per gli shop venditore. Per favore, "
+#~ "imposta un proprietario per ciascuno shop per abilitarli"
+
+#~ msgid "Go to Vendor page to fix it."
+#~ msgstr "Vai alla pagina venditori per correggere."
+
+#~ msgid ""
+#~ "vendor shops have no VAT/SSN set. Please, set VAT/SSN field for each "
+#~ "vendor shop"
+#~ msgstr ""
+#~ "Non è stata specificata una partita IVA o il codice fiscale per gli shop "
+#~ "venditore. Per favore, compila il campo per ogni shop."
+
+#~ msgid ""
+#~ "Please, set the VAT/SSN field to complete your profile in \"Vendor profile"
+#~ "\""
+#~ msgstr ""
+#~ "Per favore, imposta il campo IVA/C.F. per completare il tuo profilo da "
+#~ "\"Profilo venditore\""
+
+#~ msgid "Go to Vendor details page to fix it."
+#~ msgstr "Vai nella pagina \"Profilo venditore\" per correggere."
+
+#~ msgid "Become a vendor"
+#~ msgstr "Diventa un venditore"
+
+#~ msgid "Commission paid via PayPal (txn ID: %s)"
+#~ msgstr "Commissione pagata tramite PayPal (txn ID: %s)"
+
+#~ msgid "Payment %s"
+#~ msgstr "Pagamento %s"
+
+#~ msgid "Abuse reported correctly."
+#~ msgstr "Abuso segnalato correttamente."
+
+#~ msgid "All fields are mandatory."
+#~ msgstr "Tutti i campi sono obbligatori."
+
+#~ msgid "Your request could not be processed. Please try again"
+#~ msgstr ""
+#~ "La tua richiesta non può essere elaborata. Ti preghiamo di riprovare"
+
+#~ msgid "Error"
+#~ msgstr "Errore"
+
+#~ msgid "The First name field is mandatory"
+#~ msgstr "Il campo \"Nome\" è obbligatorio"
+
+#~ msgid "The Last name field is mandatory"
+#~ msgstr "Il campo \"Cognome\" è obbligatorio"
+
+#~ msgid "The Store address field is mandatory"
+#~ msgstr "Il campo \"Indirizzo negozio\" è obbligatorio"
+
+#~ msgid "The Email field is mandatory"
+#~ msgstr "Il campo \"Email\" è obbligatorio"
+
+#~ msgid "The Email address entered is not valid"
+#~ msgstr "L'indirizzo email inserito non è valido"
+
+#~ msgid "The Telephone field is mandatory"
+#~ msgstr "Il campo \"Telefono\" è obbligatorio"
+
+#~ msgid "The VAT/SSN field is mandatory"
+#~ msgstr "Il campo IVA/C.F. è obbligatorio"
+
+#~ msgid "Insert the vendor name"
+#~ msgstr "Inserisci il nome del venditore"
+
+#~ msgid "Report"
+#~ msgstr "Invia segnalazione"
+
+#~ msgid "User %s (%s) is reporting an abuse on the following product: \n"
+#~ msgstr ""
+#~ "L'utente %s (%s) ha segnalato un abuso riguardante il seguente prodotto:\n"
+
+#~ msgid "Product details: %s (ID: #%s) \n"
+#~ msgstr "Dettagli prodotto: %s (ID: #%s) \n"
+
+#~ msgid "Vendor shop: %s (ID: #%s) \n"
+#~ msgstr "Pagina venditore: %s (ID: #%s) \n"
+
+#~ msgid "Message: %s\n"
+#~ msgstr "Messaggio: %s\n"
+
+#~ msgid "Product page: %s\n"
+#~ msgstr "Pagina prodotto: %s\n"
+
+#~ msgid "Vendor Account details: %s \n"
+#~ msgstr "Dettagli account venditore: %s \n"
+
+#~ msgid "Item sold"
+#~ msgstr "Articolo venduto"
+
+#~ msgctxt "Cart details: Product sold by"
+#~ msgid "Sold by"
+#~ msgstr "Venduto da"
+
+#~ msgid "Cancelled order (to vendor)"
+#~ msgstr "Ordine annullato (venditore)"
+
+#~ msgid ""
+#~ "Cancelled order emails are sent when orders have been marked as cancelled "
+#~ "(if they were previously set as pending or on-hold)."
+#~ msgstr ""
+#~ "Le email di ordine cancellato sono inviate quando gli ordini vengono "
+#~ "segnati come cancellati (se precedentemente erano in attesa di pagamento "
+#~ "o in attesa)."
+
+#~ msgid "Cancelled order"
+#~ msgstr "Ordine annullato"
+
+#~ msgid "[{site_title}] Cancelled order ({order_number})"
+#~ msgstr "[{site_title}] Ordine annullato ({order_number})"
+
+#~ msgid "Enable/Disable"
+#~ msgstr "Abilita/disabilita"
+
+#~ msgid "Enable this email notification"
+#~ msgstr "Abilita le notifiche per email"
+
+#~ msgid "Subject"
+#~ msgstr "Oggetto"
+
+#~ msgid ""
+#~ "This controls the email subject line. Leave blank to use the default "
+#~ "subject: <code>%s</code>."
+#~ msgstr ""
+#~ "In questo campo puoi inserire l'oggetto dell'email. Lasciare vuoto per "
+#~ "utilizzare l'oggetto predefinito: <code>%s</code>."
+
+#~ msgid "Email Heading"
+#~ msgstr "Intestazione email"
+
+#~ msgid ""
+#~ "This controls the main heading contained within the email notification. "
+#~ "Leave blank to use the default heading: <code>%s</code>."
+#~ msgstr ""
+#~ "In questo campo puoi inserire l'header dell'email. Lasciare vuoto per "
+#~ "utilizzare il testo predefinito: <code>%s</code>."
+
+#~ msgid "Email type"
+#~ msgstr "Tipo di email"
+
+#~ msgid "Choose email format."
+#~ msgstr "Scegli formato email."
+
+#~ msgid "Commission paid (for Admin)"
+#~ msgstr "Commissione pagata (amministratore)"
+
+#~ msgid "New commissions are credited to vendor"
+#~ msgstr "Le nuove commissioni vengono accreditate al venditore"
+
+#~ msgid "Commission paid"
+#~ msgstr "Commissione pagata"
+
+#~ msgid "[{site_title}] - Commission paid"
+#~ msgstr "[{site_title}] - Commissione pagata"
+
+#~ msgid "Recipient(s)"
+#~ msgstr "Destinatari"
+
+#~ msgid ""
+#~ "Enter recipients (comma separated) for this email. Defaults to <code>%s</"
+#~ "code>."
+#~ msgstr ""
+#~ "Inserisci qui i destinatari di questa email (usando la virgola per "
+#~ "separarli). Default <code>%s</code>."
+
+#~ msgid ""
+#~ "This controls the email subject line. Leave it blank to use the default "
+#~ "subject: <code>%s</code>."
+#~ msgstr ""
+#~ "In questo campo puoi inserire l'oggetto della tua email. Per utilizzare "
+#~ "l'oggetto impostato di default lascia il campo vuoto: <code>%s</code>."
+
+#~ msgid ""
+#~ "This controls the main heading contained in the email notification. Leave "
+#~ "it blank to use the default heading: <code>%s</code>."
+#~ msgstr ""
+#~ "In questo campo puoi inserire l'intestazione della tua email. Per "
+#~ "utilizzare l'intestazione di default lascia il campo vuoto: <code>%s</"
+#~ "code>."
+
+#~ msgid "Choose format for emails that will be sent."
+#~ msgstr "Scegli il formato per le email."
+
+#~ msgid "Commissions unpaid"
+#~ msgstr "Commissioni non pagate"
+
+#~ msgid "New commissions are credited to vendors"
+#~ msgstr "Delle nuove commissioni sono state accreditate ai vneditori"
+
+#~ msgid "[{site_title}] - Commissions unpaid"
+#~ msgstr "[{site_title}] - Commissioni non pagata"
+
+#~ msgid "New order (to vendor)"
+#~ msgstr "Nuovo ordine (venditore)"
+
+#~ msgid "New order emails are sent to vendor(s) when an order is received."
+#~ msgstr ""
+#~ "Le email nuovo ordine vengono inviate al venditore ogni volta che "
+#~ "ricevono un nuovo ordine."
+
+#~ msgid "New customer order"
+#~ msgstr "Nuovo ordine cliente"
+
+#~ msgid "[{site_title}] New customer order ({order_number}) - {order_date}"
+#~ msgstr "[{site_title}] Nuovo ordine cliente ({order_number}) - {order_date}"
+
+#~ msgid "New Vendor Registration"
+#~ msgstr "Registrazione nuovo venditore"
+
+#~ msgid "New Vendor has requested to access to your store"
+#~ msgstr "Un nuovo venditore ha richiesto l'accesso al tuo store"
+
+#~ msgid "[{site_title}] - New Vendor Registration"
+#~ msgstr "[{site_title}] - Registrazione nuovo venditore"
+
+#~ msgid "Commission paid (for Vendor)"
+#~ msgstr "Commissione pagata (venditore)"
+
+#~ msgid "New commissions have been credited to vendor"
+#~ msgstr "Sono state accreditate nuove commissioni al venditore"
+
+#~ msgid "Vendor's Commission paid"
+#~ msgstr "Commissione venditore pagata"
+
+#~ msgid "Enable notification for this email"
+#~ msgstr "Abilita notifiche email"
+
+#~ msgid "Choose format for the email that will be sent."
+#~ msgstr "Scegli il formato dell'email da inviare."
+
+#~ msgid "Vendor's new account approvation"
+#~ msgstr "Approvazione nuovo account venditore"
+
+#~ msgid ""
+#~ "Emails are sent to the vendor as soon as the admin approves his/her "
+#~ "account"
+#~ msgstr ""
+#~ "Un'email verrà inviata al venditore non appena l'amministratore approva "
+#~ "l'account"
+
+#~ msgid "Your vendor account on the website {site_title} has been approved."
+#~ msgstr ""
+#~ "Il tuo account venditore sul sito sito {site_title} è stato approvato"
+
+#~ msgid "Welcome to {site_title}"
+#~ msgstr "Benvenuto su {site_title}"
+
+#~ msgid "Missing required parameters for PayPal configuration"
+#~ msgstr "Mancano i parametri richiesti per la configurazione PayPal"
+
+#~ msgid "Payment sent"
+#~ msgstr "Pagamento inviato"
+
+#~ msgid "Change to"
+#~ msgstr "Passa a"
+
+#~ msgid "Pay"
+#~ msgstr "Paga"
+
+#~ msgid "All"
+#~ msgstr "Tutte"
+
+#~ msgid "Ship to"
+#~ msgstr "Invia a "
+
+#~ msgid "Search for a product&hellip;"
+#~ msgstr "Cerca un prodotto&hellip;"
+
+#~ msgid "Filter"
+#~ msgstr "Filtra"
+
+#~ msgid "Reset"
+#~ msgstr "Reimposta"
+
+#~ msgid "Change status to"
+#~ msgstr "Passa stato a"
+
+#~ msgid "Via"
+#~ msgstr "per"
+
+#~ msgid "Order status:"
+#~ msgstr "Stato ordine:"
+
+#~ msgctxt "Order status"
+#~ msgid "Trashed"
+#~ msgstr "Eliminato"
+
+#~ msgid "Coupon Data"
+#~ msgstr "Informazioni coupon"
+
+#~ msgid "General"
+#~ msgstr "Generali"
+
+#~ msgid "Usage Restriction"
+#~ msgstr "Limitazioni di utilizzo"
+
+#~ msgid "Usage Limits"
+#~ msgstr "Limiti di utilizzo"
+
+#~ msgid "Discount type"
+#~ msgstr "Tipo di sconto"
+
+#~ msgid "Coupon amount"
+#~ msgstr "Importo coupon"
+
+#~ msgid "Value of the coupon."
+#~ msgstr "Valore del coupon."
+
+#~ msgid "Coupon expiry date"
+#~ msgstr "Data scadenza coupon"
+
+#~ msgctxt "placeholder"
+#~ msgid "YYYY-MM-DD"
+#~ msgstr "AAAA-MM-GG"
+
+#~ msgid "Minimum spend"
+#~ msgstr "Spesa minima"
+
+#~ msgid "No minimum"
+#~ msgstr "Non attivo"
+
+#~ msgid ""
+#~ "This field allows you to set the minimum subtotal needed to use the "
+#~ "coupon."
+#~ msgstr ""
+#~ "Questo campo ti permette di impostare l'importo minimo di spesa che "
+#~ "l'utente deve raggiungere per poter utilizzare il coupon."
+
+#~ msgid "Maximum spend"
+#~ msgstr "Spesa massima"
+
+#~ msgid "No maximum"
+#~ msgstr "Non attivo"
+
+#~ msgid ""
+#~ "This field allows you to set the maximum subtotal allowed when using the "
+#~ "coupon."
+#~ msgstr ""
+#~ "Questo campo ti permette di impostare l'importo massimo di spesa che "
+#~ "l'utente non deve superare per poter utilizzare il coupon."
+
+#~ msgid "Individual use only"
+#~ msgstr "Uso esclusivo"
+
+#~ msgid ""
+#~ "Check this box if the coupon cannot be used in conjunction with other "
+#~ "coupons."
+#~ msgstr ""
+#~ "Seleziona questa opzione se vuoi che il coupon non possa essere "
+#~ "utilizzato in combinazione con altri coupon."
+
+#~ msgid "Exclude sale items"
+#~ msgstr "Escludi articoli in saldo"
+
+#~ msgid ""
+#~ "Check this box if the coupon should not apply to items on sale. Per-item "
+#~ "coupons will only work if the item is not on sale. Per-cart coupons will "
+#~ "only work if there are no sale items in the cart."
+#~ msgstr ""
+#~ "Seleziona questa opzione se vuoi che il coupon non possa essere "
+#~ "utilizzato per gli articoli in saldo. I coupon articolo valgono solo se "
+#~ "l'articolo non è in saldo. I coupon carrello valgono solo se non sono "
+#~ "presenti articoli in saldo nel carrello."
+
+#~ msgid "Products"
+#~ msgstr "Prodotti"
+
+#~ msgid ""
+#~ "Select products that must have been added to cart to use this coupon."
+#~ msgstr ""
+#~ "Seleziona i prodotti che devono essere aggiunti al carrello perché il "
+#~ "coupon possa essere utilizzato."
+
+#~ msgid "Exclude products"
+#~ msgstr "Escludi prodotti"
+
+#~ msgid "Email restrictions"
+#~ msgstr "Limitazioni email"
+
+#~ msgid "No restrictions"
+#~ msgstr "Nessuna limitazione"
+
+#~ msgid ""
+#~ "List of allowed emails to check against the customer's billing email when "
+#~ "an order is placed. Separate email addresses with commas."
+#~ msgstr "Elenco degli indirizzi email autorizzati da "
+
+#~ msgid "Usage limit per coupon"
+#~ msgstr "Limite di utilizzo per coupon"
+
+#~ msgctxt "placeholder"
+#~ msgid "Unlimited usage"
+#~ msgstr "Infinito"
+
+#~ msgid "How many times this coupon can be used before it is void."
+#~ msgstr "Quante volte può essere utilizzato questo coupon."
+
+#~ msgid "Limit usage to X items"
+#~ msgstr "Limita utilizzo a X articoli"
+
+#~ msgctxt "placeholder"
+#~ msgid "Apply to all qualifying items in cart"
+#~ msgstr "Applica a tutti gli articoli conformi nel carrello"
+
+#~ msgid ""
+#~ "The maximum number of individual items this coupon can apply to when "
+#~ "using product discounts. Leave blank to apply to all qualifying items in "
+#~ "cart."
+#~ msgstr ""
+#~ "Numero massimo di elementi singoli a cui può essere applicato questo "
+#~ "coupon quando sono selezionati sconti prodotto. Lascia il campo vuoto per "
+#~ "applicare lo sconto a tutti i prodotti conformi in carrello."
+
+#~ msgid "Usage limit per user"
+#~ msgstr "Limite di utilizzo per utente"
+
+#~ msgid ""
+#~ "How many times this coupon can be used by an invidual user. Uses billing "
+#~ "email for guests, and user ID for logged in users."
+#~ msgstr ""
+#~ "Seleziona il numero di volte che un utente può utilizzare questo coupon. "
+#~ "Utilizza email di fatturazione per gli ospiti e ID utente per gli utenti "
+#~ "registrati."
+
+#~ msgid "Vacation"
+#~ msgstr "Ferie"
+
+#~ msgid "%s commission amount"
+#~ msgstr "Importo commissione: %s"
+
+#~ msgid "This is the sum of commission totals."
+#~ msgstr "Somma totale delle commissioni"
+
+#~ msgid "%s paid commissions"
+#~ msgstr "Commissioni pagate: %s"
+
+#~ msgid "This is the sum of paid commission totals."
+#~ msgstr "Somma del totale commissioni pagate."
+
+#~ msgid "%s unpaid commissions"
+#~ msgstr "Commissioni non pagate: %s"
+
+#~ msgid "This is the sum of unpaid commission totals."
+#~ msgstr "Somma del totale commissioni non pagate."
+
+#~ msgid "%s processing commissions"
+#~ msgstr "Commissioni in corso: %s"
+
+#~ msgid "This is the sum of processing commission totals."
+#~ msgstr "Somma del totale commissioni in corso."
+
+#~ msgid "%s pending commissions"
+#~ msgstr "Commissioni in attesa di pagamento: %s"
+
+#~ msgid "This is the sum of pending commission totals."
+#~ msgstr "Somma del totale commissioni in attesa di pagamento."
+
+#~ msgid "%s commissions"
+#~ msgstr "Commissioni: %s"
+
+#~ msgid "This is the sum of the commissions in this period."
+#~ msgstr "Somma delle commissioni di questo periodo."
+
+#~ msgid "%s refunded commissions"
+#~ msgstr "Commissioni rimborsate: %s"
+
+#~ msgid "This is the sum of refunded commission totals."
+#~ msgstr "Somma del totale commissioni rimborsate."
+
+#~ msgid "%s cancelled commissions"
+#~ msgstr "Commissioni annullate: %s"
+
+#~ msgid "This is the sum of cancelled commission totals."
+#~ msgstr "Somma del totale commissioni annullate."
+
+#~ msgid "Commission Totals"
+#~ msgstr "Totale commissioni"
+
+#~ msgid "Commissions amount"
+#~ msgstr "Importo commissioni"
+
+#~ msgid "Paid Commissions"
+#~ msgstr "Commissioni pagate"
+
+#~ msgid "Unpaid Commissions"
+#~ msgstr "Commissioni non pagate"
+
+#~ msgid "Processing Commissions"
+#~ msgstr "Commissioni in corso"
+
+#~ msgid "Pending Commissions"
+#~ msgstr "Commissioni in attesa di pagamento"
+
+#~ msgid "Refunded Commissions"
+#~ msgstr "Commissioni rimborsate"
+
+#~ msgid "Cancelled Commissions"
+#~ msgstr "Commissioni annullate"
+
+#~ msgid "%s gross sales in this period"
+#~ msgstr "Vendite di questo periodo al lordo: %s"
+
+#~ msgid ""
+#~ "This is the sum of the order totals after any refunds and including "
+#~ "shipping and taxes."
+#~ msgstr ""
+#~ "Somma del totale degli ordini dopo aver effettuato tutti i rimborsi e "
+#~ "comprensivo di tasse e spese di spedizione."
+
+#~ msgid "%s net sales in this period"
+#~ msgstr "Vendite di questo periodo al netto: %s"
+
+#~ msgid ""
+#~ "This is the sum of the order totals after any refunds and excluding "
+#~ "shipping and taxes."
+#~ msgstr ""
+#~ "Somma del totale degli ordini dopo aver effettuato tutti i rimborsi e non "
+#~ "comprensivo di tasse e spese di spedizione."
+
+#~ msgid "%s orders placed"
+#~ msgstr "%s ordini presenti"
+
+#~ msgid "%s items purchased"
+#~ msgstr "%s articoli acquistati"
+
+#~ msgid "Items purchased"
+#~ msgstr "Articoli acquistati"
+
+#~ msgid "Orders count"
+#~ msgstr "Conteggio ordini"
+
+#~ msgid "Gross sales"
+#~ msgstr "Vendite lorde"
+
+#~ msgid "Net sales"
+#~ msgstr "Vendite nette"
+
+#~ msgid "%s registered vendors"
+#~ msgstr "%s venditori registrati"
+
+#~ msgid "%s with selling capability"
+#~ msgstr "%s abilitati alla vendita"
+
+#~ msgid "%s enabled"
+#~ msgstr "%s abilitati"
+
+#~ msgid "%s without selling capability"
+#~ msgstr "%s non abilitati alla vendita"
+
+#~ msgid "%s disabled"
+#~ msgstr "%s non abilitati"
+
+#~ msgid "Totals of registered vendors"
+#~ msgstr "Tutti i venditori registrati"
+
+#~ msgid "new vendors"
+#~ msgstr "nuovi venditori"
+
+#~ msgid "Enabled Vs Disabled Vendors"
+#~ msgstr "Venditori abilitati e non"
+
+#~ msgid "vendors"
+#~ msgstr "venditori"
+
+#~ msgid "%s sales for the selected vendor"
+#~ msgstr "%s di vendite per il venditore selezionato"
+
+#~ msgid "%s purchases for the selected vendor"
+#~ msgstr "%s acquisti per il venditore selezionato"
+
+#~ msgid "Showing reports for:"
+#~ msgstr "Mostra report per:"
+
+#~ msgid "Search for a vendor&hellip;"
+#~ msgstr "Cerca un venditore&hellip;"
+
+#~ msgid "Show"
+#~ msgstr "Mostra"
+
+#~ msgid "Top Sellers"
+#~ msgstr "Con più vendite"
+
+#~ msgid "No vendors found in range"
+#~ msgstr "Nessun venditore trovato"
+
+#~ msgid "Top Earners"
+#~ msgstr "Con guadagno maggiore"
+
+#~ msgid "&larr; Choose a vendor to view stats"
+#~ msgstr "&larr; Scegli un venditore per visualizzarne le statistiche"
+
+#~ msgid "Number of items sold"
+#~ msgstr "Numero di articoli venduti"
+
+#~ msgid "Unable to send email. Please try again"
+#~ msgstr "Impossibile inviare email. Ti preghiamo di riprovare"
+
+#~ msgid "Email sent successfully"
+#~ msgstr "Email inviata con successo"
+
+#~ msgid "YITH Vendor Quick Info"
+#~ msgstr "YITH Informazioni venditore"
+
+#~ msgid "Add a quick info contact form in vendor's store page"
+#~ msgstr ""
+#~ "Aggiungi un modulo contatti per rapide informazioni nella pagina shop del "
+#~ "venditore"
+
+#~ msgid "Quick Info"
+#~ msgstr "Informazioni veloci"
+
+#~ msgid "Do you need more information? Write to us!"
+#~ msgstr "Ti serve sapere altro? Scrivici!"
+
+#~ msgid "Submit"
+#~ msgstr "Invia"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Submit button label text"
+#~ msgstr "Testo pulsante \"Submit\""
+
+#~ msgid "Hide from guests"
+#~ msgstr "Nascondi agli ospiti"
+
+#~ msgid "Send a copy to website owner"
+#~ msgstr "Invia una copia al proprietario del sito"
+
+#~ msgid "YITH Vendor Store Location"
+#~ msgstr "YITH Posizione negozio venditore"
+
+#~ msgid "Display the vendor's store location in Google Maps"
+#~ msgstr "Mostra la posizione del negozio in Google Maps"
+
+#~ msgid "Store Location"
+#~ msgstr "Posizione negozio"
+
+#~ msgid "Commission page view"
+#~ msgstr "Visualizzazione pagina commissioni"
+
+#~ msgid "Select the default view for commission page"
+#~ msgstr "Seleziona la visualizzazione di default per la pagina commissioni"
+
+#~ msgid "Include coupons in commission calculations"
+#~ msgstr "Includi i coupon nel calcolo della commissione"
+
+#~ msgid ""
+#~ "Decide whether vendor commissions have to be calculated including coupon "
+#~ "value or not."
+#~ msgstr ""
+#~ "Scegli se le commissioni venditore devono essere calcolate includendo il "
+#~ "valore del coupon o meno."
+
+#~ msgid "WooCommerce Pages"
+#~ msgstr "Pagine WooCommerce"
+
+#~ msgid "Show vendor's name in shop page"
+#~ msgstr "Mostra nome venditore nella pagina shop"
+
+#~ msgid ""
+#~ "Select if you want to show vendor's name below products in Shop page."
+#~ msgstr ""
+#~ "Scegli se mostrare il nome del venditore sotto i prodotti nella pagina "
+#~ "shop."
+
+#~ msgid "Show vendor's name in single product page"
+#~ msgstr "Mostra nome del venditore nella pagina prodotto"
+
+#~ msgid ""
+#~ "Select if you want to show vendor's name below products in Single product "
+#~ "page."
+#~ msgstr ""
+#~ "Scegli se mostrare il nome del venditore sotto i prodotti nella pagina "
+#~ "singolo prodotto."
+
+#~ msgid "Show vendor's name in product category page"
+#~ msgstr "Mostra nome del venditore nella pagina categoria prodotto"
+
+#~ msgid ""
+#~ "Select if you want to show vendor's name below products in Product "
+#~ "category page."
+#~ msgstr ""
+#~ "Scegli se mostrare il nome del venditore sotto i prodotti nella pagina "
+#~ "categoria prodotti."
+
+#~ msgid "Show \"Item sold\" information in single product page"
+#~ msgstr ""
+#~ "Mostra l'informazione \"Articolo venduto\" nella pagina singolo prodotto"
+
+#~ msgid ""
+#~ "Select if you want to show the text \"Item sold\" in single product page "
+#~ "among category and tag information"
+#~ msgstr ""
+#~ "Scegli se mostrare il testo \"Articolo venduto\" nella pagina singolo "
+#~ "prodotto sotto le informazioni di categorie e tag"
+
+#~ msgid "Show \"Report abuse\" link"
+#~ msgstr "Mostra link \"Segnala un abuso\""
+
+#~ msgid ""
+#~ "Choose if you want to show the \"Report abuse\" link under product "
+#~ "thumbnails in single product page."
+#~ msgstr ""
+#~ "Scegli se mostrare il link \"Segnala un abuso\" sotto le thumbnail nella "
+#~ "pagina prodotto."
+
+#~ msgid "All products"
+#~ msgstr "Tutti i prodotti"
+
+#~ msgid "Only for vendor's products"
+#~ msgstr "Solo per i prodotti del venditore"
+
+#~ msgid "\"Report abuse\" link text"
+#~ msgstr "Testo del link \"Segnala un abuso\""
+
+#~ msgid "The report abuse link text."
+#~ msgstr "Inserisci qui il testo del link utilizzato per segnalare un abuso."
+
+#~ msgid "Report abuse"
+#~ msgstr "Segnala un abuso"
+
+#~ msgid "Vendor's registration page"
+#~ msgstr "Pagina di registrazione del venditore"
+
+#~ msgid "Enable Vendors registration in \"My Account\" page"
+#~ msgstr "Abilita registrazione venditori nella pagina \"Il mio account\""
+
+#~ msgid ""
+#~ "To make this option available you have to enable registration from \"My "
+#~ "Account\" page in <a href=\"%s\">WooCommerce > Settings > Account</a>"
+#~ msgstr ""
+#~ "Per attivare questa opzione devi abilitare la registrazione dalla pagina "
+#~ "\"Il mio account\" in <a href=\"%s\">WooCommerce > Impostazioni > "
+#~ "Account</a>"
+
+#~ msgid "Auto enable vendor account"
+#~ msgstr "Autoabilitazione account venditore"
+
+#~ msgid ""
+#~ "After registration, the seller is entitled to sell. If you disable this "
+#~ "option, the administrator must enable the vendor account manually"
+#~ msgstr ""
+#~ "Dopo la registrazione, il venditore è abilitato alla vendita. Se "
+#~ "disabiliti questa opzione, l'amministratore deve abilitare l'account "
+#~ "venditore manualmente."
+
+#~ msgid "VAT/SSN number"
+#~ msgstr "Partita IVA/cod. fis."
+
+#~ msgid "Mark this field required"
+#~ msgstr "Segna questo campo come obbligatorio"
+
+#~ msgid "Become a vendor page"
+#~ msgstr "Pagina per diventare venditori"
+
+#~ msgid "\"Become a vendor\" page"
+#~ msgstr "Pagina \"Diventa un venditore\""
+
+#~ msgid "This sets the page where add the \"become a vendor\" form."
+#~ msgstr ""
+#~ "Imposta la pagina dove aggiungere il campo \"Diventa un venditore\"."
+
+#~ msgid "Vendor's Store Page"
+#~ msgstr "Pagina venditore"
+
+#~ msgid "Store link"
+#~ msgstr "Link negozio"
+
+#~ msgid "Select the style you want to use:"
+#~ msgstr "Seleziona lo stile che vuoi utilizzare:"
+
+#~ msgid "Theme style"
+#~ msgstr "Stile tema"
+
+#~ msgid "Custom style"
+#~ msgstr "Stile personalizzato"
+
+#~ msgid "Vendor's name label color"
+#~ msgstr "Colore etichetta nome venditore"
+
+#~ msgid "Use it in shop page and single product page"
+#~ msgstr "Utilizzalo nella pagina shop e nella pagina singolo prodotto"
+
+#~ msgid "Vendor's name label color (on hover)"
+#~ msgstr "Colore etichetta nome venditore (al passaggio del mouse)"
+
+#~ msgid "Use it in shop page and single product page (on hover)"
+#~ msgstr ""
+#~ "Utilizzalo nella pagina shop e nella pagina singolo prodotto (al "
+#~ "passaggio del mouse)"
+
+#~ msgid "Style for header image in vendor store page"
+#~ msgstr "Stile immagine header nella pagina venditore"
+
+#~ msgid ""
+#~ "Skin 1: Black background and white font color, Skin 2: White background "
+#~ "and black font color"
+#~ msgstr ""
+#~ "Tema 1: sfondo nero e testo bianco, Tema 2: sfondo bianco e testo nero"
+
+#~ msgid "Skin 1"
+#~ msgstr "Tema 1"
+
+#~ msgid "Skin 2"
+#~ msgstr "Tema 2"
+
+#~ msgid "Vendor tab position in single product page"
+#~ msgstr "Posizione scheda venditore nella pagina singolo prodotto"
+
+#~ msgid ""
+#~ "Select the position for \"Vendor\" tab in single product page. You can "
+#~ "set to show the tab before or after WooCommerce tabs"
+#~ msgstr ""
+#~ "Seleziona la posizione della scheda \"Venditore\" nella pagina singolo "
+#~ "prodotto. Puoi scegliere di mostrare la scheda prima o dopo quelle "
+#~ "predefinite di WooCommerce"
+
+#~ msgid "First tab"
+#~ msgstr "Prima scheda"
+
+#~ msgid "After WooCommerce tabs"
+#~ msgstr "Dopo le schede predefinite di WooCommerce"
+
+#~ msgid "Settings for vendor's \"Related products\""
+#~ msgstr "Impostazioni per i \"Prodotti correlati\" del venditore"
+
+#~ msgid "Select related products to show in single product pages:"
+#~ msgstr ""
+#~ "Seleziona i prodotti correlati da mostrare nelle pagine singolo prodotto:"
+
+#~ msgid "Do not show related products"
+#~ msgstr "Non mostrare prodotti correlati"
+
+#~ msgid "Related products from the entire store"
+#~ msgstr "Prodotti correlati da tutto lo store"
+
+#~ msgid "Related products from vendor's shop"
+#~ msgstr "Prodotti correlati dalla pagina del venditore"
+
+#~ msgid "Show vendor's description in store page"
+#~ msgstr "Mostra la descrizione del venditore nella pagina Shop dello store."
+
+#~ msgid ""
+#~ "Select if you want to show vendor's description after the header of Store "
+#~ "page."
+#~ msgstr ""
+#~ "Scegli se mostrare la descrizione del venditore dopo l'header della "
+#~ "pagina Shop dello store."
+
+#~ msgid "Show vendor's name in store page"
+#~ msgstr "Mostra nome del venditore nella pagina shop dello store"
+
+#~ msgid ""
+#~ "Select if you want to show vendor's name below products in Store page."
+#~ msgstr ""
+#~ "Scegli se mostrare il nome del venditore sotto i prodotti nella pagina "
+#~ "shop dello store."
+
+#~ msgid "Show total vendor's sales in store page"
+#~ msgstr "Mostra vendite totali del venditore nella pagina shop"
+
+#~ msgid ""
+#~ "Select if you want to show total vendor's sales in the header of Store "
+#~ "page."
+#~ msgstr ""
+#~ "Scegli se mostrare le vendite totali del venditore nell'header della "
+#~ "pagina shop."
+
+#~ msgid "Show VAT/SSN in store page"
+#~ msgstr "Mostra IVA/C.F. nella pagina store"
+
+#~ msgid ""
+#~ "Select if you want to show the VAT/SSN information in the header of Store "
+#~ "page."
+#~ msgstr ""
+#~ "Seleziona se vuoi mostrare le informazioni IVA/C.F. nell'intestazione "
+#~ "della pagina Store."
+
+#~ msgid "PayPal settings"
+#~ msgstr "Impostazioni PayPal"
+
+#~ msgid ""
+#~ "Configure here PayPal in order to process the payment of commissions."
+#~ msgstr "Configura qui PayPal per elaborare il pagamento delle commissioni."
+
+#~ msgid "Payment Method"
+#~ msgstr "Metodo di pagamento"
+
+#~ msgid "Choose how to pay the commissions to vendors"
+#~ msgstr "Scegli come pagare le commissioni ai venditori"
+
+#~ msgid "Pay manually"
+#~ msgstr "Paga manualmente"
+
+#~ msgid "Let vendors decide"
+#~ msgstr "Lascia che sia il venditore a decidere"
+
+#~ msgid "Minimum Withdrawal"
+#~ msgstr "Prelievo minimo"
+
+#~ msgid ""
+#~ "Set the minimum value for commission withdrawals. This setting will "
+#~ "update all vendors' accounts that still have a threshold lower than the "
+#~ "one set."
+#~ msgstr ""
+#~ "Imposta il valore minimo per prelevare le commissioni. Questa "
+#~ "impostazione aggiornerà tutti gli account dei venditori che hanno già una "
+#~ "soglia inferiore a quella impostata."
+
+#~ msgid "Sandbox environment"
+#~ msgstr "Modalità sandbox"
+
+#~ msgid "Set environment as sandbox, for test purpose"
+#~ msgstr "Imposta la modalità sandbox per testare il funzionamento"
+
+#~ msgid "API Username"
+#~ msgstr "API Username"
+
+#~ msgid ""
+#~ "API username of PayPal administration account (if empty, settings of "
+#~ "PayPal in <a href=\"%s\">WooCommmerce Settings page</a> apply)."
+#~ msgstr ""
+#~ "Nome utente API dell'account di amministratore PayPal (se vuoto, applica "
+#~ "impostazioni PayPal da <a href=\"%s\">WooCommmerce Settings page</a>)."
+
+#~ msgid "API Password"
+#~ msgstr "API Password"
+
+#~ msgid ""
+#~ "API password of PayPal administration account (if empty, settings of "
+#~ "PayPal in <a href=\"%s\">WooCommmerce Settings page</a> apply)."
+#~ msgstr ""
+#~ "Password API dell'account di amministratore PayPal (se vuoto, applica "
+#~ "impostazioni PayPal da <a href=\"%s\">WooCommmerce Settings page</a>)."
+
+#~ msgid "API Signature"
+#~ msgstr "API Signature"
+
+#~ msgid ""
+#~ "API signature of PayPal administration account (if empty, settings of "
+#~ "PayPal in <a href=\"%s\">WooCommmerce Settings page</a> apply)."
+#~ msgstr ""
+#~ "Firma API dell'account di amministratore PayPal (se vuoto, applica "
+#~ "impostazioni PayPal da <a href=\"%s\">WooCommmerce Settings page</a>)."
+
+#~ msgid "Payment Email Subject"
+#~ msgstr "Oggetto email pagamento"
+
+#~ msgid ""
+#~ "Subject for email sent by PayPal to customers when payment request is "
+#~ "registered"
+#~ msgstr "Oggetto dell'email che gli utenti ricevono da PayPaò"
+
+#~ msgid "Notification URL"
+#~ msgstr "URL di notifica"
+
+#~ msgid ""
+#~ "Copy this URL and set it into PayPal admin panel, to receive IPN from "
+#~ "their server"
+#~ msgstr ""
+#~ "Copia questo URL nel pannello di amministrazione PayPal per ricevere "
+#~ "l'IPN dal server"
+
+#~ msgid "Report settings."
+#~ msgstr "Impostazioni report."
+
+#~ msgid "Vendor Report limit"
+#~ msgstr "Limite report venditore"
+
+#~ msgid "Choose the maximum number of rows you can show in the reports"
+#~ msgstr "Seleziona il numero massimo di righe da mostrare nei report"
+
+#~ msgid "10"
+#~ msgstr "10"
+
+#~ msgid "20"
+#~ msgstr "20"
+
+#~ msgid ""
+#~ "If you enable this option, each vendor will be able to chat with their "
+#~ "customers directly"
+#~ msgstr ""
+#~ "Se abiliti questa opzione, ogni venditore potrà avviare una chat "
+#~ "direttamente con i propri clienti"
+
+#~ msgctxt ""
+#~ "Admin: refers to the sentence \"It needs YITH Live Chat plugin to work\""
+#~ msgid "Needs"
+#~ msgstr "Richiede"
+
+#~ msgid "plugin"
+#~ msgstr "plugin"
+
+#~ msgid ""
+#~ "If you enable this option, vendors will be able to create and manage "
+#~ "memberships for their own customers"
+#~ msgstr ""
+#~ "Se abiliti questa opzione, i venditori potranno creare e gestire piani di "
+#~ "accesso contenuti per i loro clienti"
+
+#~ msgctxt "Admin: means needs YITH WooCommerce Membership plugin to works"
+#~ msgid "Needs"
+#~ msgstr "Richiede"
+
+#~ msgid "Enable product amount limit"
+#~ msgstr "Abilita limite quantità prodotti"
+
+#~ msgid "Limit product amount for each vendor"
+#~ msgstr ""
+#~ "Imposta un limite per la quantità di prodotti che può caricare ciascun "
+#~ "venditore"
+
+#~ msgid "Product amount limit"
+#~ msgstr "Restrizioni quantità di prodotti"
+
+#~ msgid "Set a maximum number of products that each vendor can publish"
+#~ msgstr ""
+#~ "Seleziona un numero massimo di prodotti che ciascun venditore può "
+#~ "pubblicare"
+
+#~ msgid "Product listings"
+#~ msgstr "Elenchi prodotti"
+
+#~ msgid "Hide vendor products from store loop page"
+#~ msgstr "Nascondi prodotti del venditore dalla pagina loop dello store"
+
+#~ msgid ""
+#~ "Hide products belonging to vendors from store loop page - this means that "
+#~ "vendor products will only be visible on the individual vendor pages."
+#~ msgstr ""
+#~ "Nascondi i prodotti appartenenti ai venditori dalla pagina loop dello "
+#~ "store - questo significa che i prodotti del venditore saranno visibili "
+#~ "solo nelle pagine dei rispettivi venditori."
+
+#~ msgid "Skip admin review"
+#~ msgstr "Salta approvazione amministratore"
+
+#~ msgid ""
+#~ "If you enable this option any vendor could publish products without super "
+#~ "admin authorization.\n"
+#~ "                                  This is the default option for any new "
+#~ "vendor\n"
+#~ "                                  It is possible to override these "
+#~ "settings for each vendor. "
+#~ msgstr ""
+#~ "Se abiliti questa opzione, tutti i venditori potranno pubblicare i "
+#~ "prodotti senza dover avere l'autorizzazione dell'amministratore.\n"
+#~ "Questa è l'impostazione predefinita per ogni nuovo venditore.\n"
+#~ "È possibile sovrascrivere queste impostazioni per ogni singolo venditore."
+
+#~ msgid "Force \"Skip reviews\" option for all vendors"
+#~ msgstr "Imposta l'opzione \"Salta autorizzazione\" per tutti i venditori"
+
+#~ msgid "Force option"
+#~ msgstr "Imposta per tutti"
+
+#~ msgid "Force \"Skip admin review\" options for all vendors."
+#~ msgstr ""
+#~ "Imposta l'opzione \"Salta autorizzazione amministratore\" per tutti i "
+#~ "venditori"
+
+#~ msgid "Enable YIT Shortcodes Button"
+#~ msgstr "Abilita pulsante  YIT Shortcodes"
+
+#~ msgid ""
+#~ "If you enable this option, each vendor will be able to use YIT Shortcodes "
+#~ "in Add/Edit Product page."
+#~ msgstr ""
+#~ "Se abiliti questa opzione, ogni venditore sarà abilitato ad usare YIT "
+#~ "Shortcodes nella pagina Aggiungi/Modifica Prodotti."
+
+#~ msgid "Coupon management"
+#~ msgstr "Gestione coupon"
+
+#~ msgid "Enable coupon management"
+#~ msgstr "Abilita gestione coupon"
+
+#~ msgid ""
+#~ "If you enable this option, each vendor will be able to create coupon for "
+#~ "their own products."
+#~ msgstr ""
+#~ "Se abiliti questa opzione, ciascun venditore potrà creare dei coupon per "
+#~ "i propri prodotti."
+
+#~ msgid "Review management"
+#~ msgstr "Gestione recensioni"
+
+#~ msgid "Enable review management"
+#~ msgstr "Abilita gestione recensioni"
+
+#~ msgid ""
+#~ "If you enable this option, each vendor will be able to manage reviews on "
+#~ "his/her own products independently."
+#~ msgstr ""
+#~ "Se abiliti questa opzione, ogni venditore potrà gestire le recensioni sui "
+#~ "propri prodotti in maniera indipendente."
+
+#~ msgid ""
+#~ "All changes made to general orders will be synchronized with the "
+#~ "individual vendor's order"
+#~ msgstr ""
+#~ "Tutte le modifiche effettuate sugli ordini generali saranno sincronizzate "
+#~ "con gli ordini di ogni singolo venditore"
+
+#~ msgid "Order refund management"
+#~ msgstr "Gestione rimborso ordini"
+
+#~ msgid ""
+#~ "If you enable this option, each vendor will be able to manage refund on "
+#~ "his/her own orders independently."
+#~ msgstr ""
+#~ "Se abiliti questa opzione, ciascun venditore avrà la possibilità di "
+#~ "gestire gli ordini riguardanti i propri prodotti autonomamente."
+
+#~ msgid "Featured Products management"
+#~ msgstr "Gestione prodotti in evidenza"
+
+#~ msgid "Enable featured products management"
+#~ msgstr "Abilita gestione prodotti in evidenza"
+
+#~ msgid ""
+#~ "If you enable this option, each vendor will be able to set \"Featured\" "
+#~ "on his/her own products independently."
+#~ msgstr ""
+#~ "Se abiliti questa opzione, ciascun venditore potrà scegliere in autonomia "
+#~ "quali tra i suoi prodotti inserire come \"in evidenza\"."
+
+#~ msgid "Seller vacation"
+#~ msgstr "Chiuso per ferie - venditore"
+
+#~ msgid "Enable seller vacation module"
+#~ msgstr "Abilita chiusura per ferie venditore"
+
+#~ msgid ""
+#~ "If you enable this option, each vendor will be able to close his/her shop "
+#~ "for vacation."
+#~ msgstr ""
+#~ "Se abiliti questa opzione, ciascun venditore potrà chiudere il suo shop "
+#~ "per ferie."
+
+#~ msgid "Live Chat Integration"
+#~ msgstr "Integrazione con Live Chat"
+
+#~ msgid "Enable live chat for vendors"
+#~ msgstr "Attiva la chat per i venditori"
+
+#~ msgid "Vendor's VAT/SSN."
+#~ msgstr "IVA/C.F. venditore"
+
+#~ msgid "Allow vendors to add products without admin review"
+#~ msgstr ""
+#~ "Autorizza i venditori ad aggiungere prodotti senza dover ricevere "
+#~ "autorizzazione dall'amministratore"
+
+#~ msgid "Vendor Shop Admins"
+#~ msgstr "Amministratori pagina venditore"
+
+#~ msgid "Contact information :"
+#~ msgstr "Informazioni di contatto:"
+
+#~ msgid "Location"
+#~ msgstr "Posizione"
+
+#~ msgid "Store email"
+#~ msgstr "Email store"
+
+#~ msgid "Telephone"
+#~ msgstr "Telefono"
+
+#~ msgid "Social profile:"
+#~ msgstr "Profilo social:"
+
+#~ msgid "Registration date:"
+#~ msgstr "Data di registrazione:"
+
+#~ msgid "Header image"
+#~ msgstr "Immagine header"
+
+#~ msgid "Upload/Add image"
+#~ msgstr "Carica/aggiungi immagine"
+
+#~ msgid "Remove image"
+#~ msgstr "Rimuovi immagine"
+
+#~ msgid "Vendor shop page information"
+#~ msgstr "Informazioni pagina venditore"
+
+#~ msgid "Description for Vendor Tab in single product page."
+#~ msgstr "Descrizione della scheda venditore nella pagina singolo prodotto."
+
+#~ msgid "Enable store header logo:"
+#~ msgstr "Abilita logo dell'header del negozio:"
+
+#~ msgid "Show logo in the vendor's store header page"
+#~ msgstr "Mostra il logo nell'header della pagina del negozio dei venditori."
+
+#~ msgid ""
+#~ "Store address. e.g.: MyStore S.A. Avenue MyStore 55, 1800 Vevey, "
+#~ "Switzerland"
+#~ msgstr "Indirizzo negozio. Es. IlMioNegozio via MyStore 55, Svizzera"
+
+#~ msgid "Insert store email address."
+#~ msgstr "Inserisci indirizzo email dello store."
+
+#~ msgid "Insert store telephone number."
+#~ msgstr "Inserisci numero di telefono dello store."
+
+#~ msgid "Add social page link here"
+#~ msgstr "Aggiungi link pagina social qui"
+
+#~ msgid "Save Front page Settings"
+#~ msgstr "Salva impostazioni front page"
+
+#~ msgid "Payments information"
+#~ msgstr "Informazioni di pagamento"
+
+#~ msgid "Payment type:"
+#~ msgstr "Tipo di pagamento:"
+
+#~ msgid "Choose payment method for crediting commissions"
+#~ msgstr "Scegli il metodo di pagamento per le commissioni"
+
+#~ msgid "Threshold"
+#~ msgstr "Soglia"
+
+#~ msgid "Minimum vendor's earning before a vendor's commissions can be paid"
+#~ msgstr ""
+#~ "Guadagno minimo che il venditore deve raggiungere prima che gli si "
+#~ "possano pagare le commissioni"
+
+#~ msgid "Minimum threshold allowed by site administrator is"
+#~ msgstr "La soglia minima di guadagni impostata dall'amministratore è"
+
+#~ msgid "Save Payments Information"
+#~ msgstr "Salva informazioni di pagamento"
+
+#~ msgid "Store general information"
+#~ msgstr "Informazioni generali dello store"
+
+#~ msgid "Store name (displayed in vendor tabs and vendor store page)."
+#~ msgstr ""
+#~ "Nome dello store (visualizzato nelle schede del venditore e nella pagina "
+#~ "del venditore)."
+
+#~ msgid ""
+#~ "The “slug” is the URL-friendly version of the name. It is usually "
+#~ "lowercased and contains only letters, numbers and hyphens."
+#~ msgstr ""
+#~ "Lo \"slug\" è una versione del nome adatta per l'URL. È costituita in "
+#~ "genere da caratteri minuscoli e contiene solo lettere, numeri e trattini."
+
+#~ msgid "VAT/SSN:"
+#~ msgstr "IVA/C.F."
+
+#~ msgid "The VAT/SSN of your store."
+#~ msgstr "La partita IVA o il codice fiscale per il tuo store."
+
+#~ msgid "Store capability and rate:"
+#~ msgstr "Autorizzazioni store e tassi commissione:"
+
+#~ msgid "Skip admin review: "
+#~ msgstr "Salta approvazione amministrazione:"
+
+#~ msgid "Sale status: "
+#~ msgstr "Stato delle vendite:"
+
+#~ msgid "Registration date: "
+#~ msgstr "Data di registrazione:"
+
+#~ msgid "Save Vendor Settings"
+#~ msgstr "Salva impostazioni venditore"
+
+#~ msgid "Seller vacation info"
+#~ msgstr "Info "
+
+#~ msgid "Vacation message:"
+#~ msgstr "Messaggio chiusura ferie:"
+
+#~ msgid "Add here the vacation message."
+#~ msgstr "Inserisci qui un messaggio per le ferie."
+
+#~ msgid "Vacation date"
+#~ msgstr "Data ferie"
+
+#~ msgid "Start date"
+#~ msgstr "Dal"
+
+#~ msgid "End date"
+#~ msgstr "Al"
+
+#~ msgid "Selling option"
+#~ msgstr "Opzione vendite"
+
+#~ msgid "Prevent sales temporarily"
+#~ msgstr "Blocca vendite temporaneamente"
+
+#~ msgid "Keep selling anyway"
+#~ msgstr "Continua a vendere comunque"
+
+#~ msgid "Save Vacation Settings"
+#~ msgstr "Salva impostazioni ferie"
+
+#~ msgid "Paypal email"
+#~ msgstr "Email PayPal"
+
+#~ msgid "Order number"
+#~ msgstr "Numero ordine"
+
+#~ msgid "The commission has been credited successfully."
+#~ msgstr "La commissione è stata accreditata con successo."
+
+#~ msgid "Commission #%s detail"
+#~ msgstr "Dettagli commissione #%s"
+
+#~ msgid "Some commissions have not been credited properly."
+#~ msgstr "Alcune commissioni non sono state accreditate correttamente."
+
+#~ msgid "Details of commissions not paid"
+#~ msgstr "Dettagli commissioni non pagate"
+
+#~ msgid "Commission #%s"
+#~ msgstr "Commissione #%s"
+
+#~ msgid "Owner:"
+#~ msgstr "Proprietario:"
+
+#~ msgid "Store Name:"
+#~ msgstr "Nome store:"
+
+#~ msgid "Store Email"
+#~ msgstr "Email store"
+
+#~ msgid "New vendor registered"
+#~ msgstr "Nuovo venditore registrato"
+
+#~ msgid "A new user has made a request to become a vendor in your store."
+#~ msgstr ""
+#~ "Un nuovo utente ha richiesto di diventare venditore all'interno del tuo "
+#~ "store."
+
+#~ msgid "Vendor detail"
+#~ msgstr "Dettagli venditore"
+
+#~ msgid "PayPal email"
+#~ msgstr "Email PayPal"
+
+#~ msgid "Commission number: %s"
+#~ msgstr "Numero commissione: %s"
+
+#~ msgid "jS F Y"
+#~ msgstr "jS F Y"
+
+#~ msgid "Store Name"
+#~ msgstr "Nome dello store"
+
+#~ msgid "The order #%d from %s has been cancelled. The order was as follows:"
+#~ msgstr "L'ordine  #%d da %s è stato annullato. Di seguito i dettagli:"
+
+#~ msgid "Order number: %s"
+#~ msgstr "Numero ordine: %s"
+
+#~ msgctxt "New Order Email"
+#~ msgid "Commission id:"
+#~ msgstr "ID commissione:"
+
+#~ msgctxt "New Order Email"
+#~ msgid "Commission rate:"
+#~ msgstr "Tasso di commissione:"
+
+#~ msgctxt "New Order Email"
+#~ msgid "Earnings:"
+#~ msgstr "Guadagni:"
+
+#~ msgid "Quantity: %s"
+#~ msgstr "Quantità: %s"
+
+#~ msgid "Cost: %s"
+#~ msgstr "Costo: %s"
+
+#~ msgid "Download %d"
+#~ msgstr "Download %d"
+
+#~ msgid "Download"
+#~ msgstr "Download"
+
+#~ msgid "Your vendor account has been approved %s."
+#~ msgstr "Il tuo account venditore è stato approvato %s."
+
+#~ msgid ""
+#~ "From your vendor dashboard you can view your recent commissions, view the "
+#~ "sales report and manage your store and payment settings. Click <a href="
+#~ "\"%s\">here</a> to access <strong>store dashboard</strong>."
+#~ msgstr ""
+#~ "Dalla tua dashboard venditore puoi visualizzare le tue commissioni "
+#~ "recenti, il report delle vendite e gestire il tuo store e le impostazioni "
+#~ "di pagamento. Fai clic su <a href=\"%s\">here</a> per entrare nella "
+#~ "<strong>dashboard dello store</strong>."
+
+#~ msgid "You have received an order from %s."
+#~ msgstr "Hai ricevuto un ordine da %s."
+
+#~ msgid "Order #%s"
+#~ msgstr "Ordine #%s"
+
+#~ msgid "Price"
+#~ msgstr "Prezzo"
+
+#~ msgctxt "Email: commission rate column"
+#~ msgid "Commission"
+#~ msgstr "Commissione"
+
+#~ msgctxt "Email: commission amount column"
+#~ msgid "Earnings"
+#~ msgstr "Guadagni"
+
+#~ msgid "Product Image"
+#~ msgstr "Immagine prodotto"
+
+#~ msgid "You have received an order from %s. The order is as follows:"
+#~ msgstr "Hai ricevuto un ordine da %s. Di seguito i dettagli:"
+
+#~ msgid "Store name *"
+#~ msgstr "Nome shop *"
+
+#~ msgid "Address *"
+#~ msgstr "Indirizzo *"
+
+#~ msgid "Email *"
+#~ msgstr "Email *"
+
+#~ msgid "Telephone *"
+#~ msgstr "Telefono *"
+
+#~ msgid "Store page"
+#~ msgstr "Pagina shop"
+
+#~ msgid "%s average rating from %d review"
+#~ msgid_plural "%s average rating from %d reviews"
+#~ msgstr[0] "Votazione media: %s su %d recensione"
+#~ msgstr[1] "Votazione media: %s su %d recensioni"
+
+#~ msgid "Total sales: %d"
+#~ msgstr "Vendite totali: %d"
+
+#~ msgid "Name"
+#~ msgstr "Nome"
+
+#~ msgid "Message"
+#~ msgstr "Messaggio"
+
+#~ msgid "Show in Google Maps"
+#~ msgstr "Mostra in Google Maps"
+
+#~ msgid "Custom:"
+#~ msgstr "Personalizza:"
+
+#~ msgid "Go"
+#~ msgstr "Vai a"
+
+#~ msgid "VAT/SSN: %s"
+#~ msgstr "IVA/C.F.: %s"
+
+#~ msgid "My Vendor Dashboard"
+#~ msgstr "La mia dashboard venditore"
+
+#~ msgid ""
+#~ "You'll be able to access your dashboard as soon as the administrator "
+#~ "approves your vendor account."
+#~ msgstr ""
+#~ "Potrai accedere alla tua dashboard non appena l'amministratore approva il "
+#~ "tuo account venditore."
+
+#~ msgid ""
+#~ "From your vendor dashboard you can view your recent commissions, view the "
+#~ "sales report and manage your store and payment settings."
+#~ msgstr ""
+#~ "Dalla tua dashboard venditore, potrai visualizzare le tue commissioni "
+#~ "recenti, il report delle vendite e gestire il tuo shop e le impostazioni "
+#~ "di pagamento."
+
+#~ msgid ""
+#~ "Click <a href=\"%s\">here</a> to access <strong>%s dashboard</strong>."
+#~ msgstr ""
+#~ "Fai clic su <a href=\"%s\">here</a> per accedere alla <strong>%s "
+#~ "dashboard</strong>."
+
+#~ msgid "Register as a vendor"
+#~ msgstr "Registrati come venditore"
+
+#~ msgid "Owner First Name *"
+#~ msgstr "Nome proprietario *"
+
+#~ msgid "Owner Last Name *"
+#~ msgstr "Cognome proprietario *"
+
+#~ msgid "Report an abuse for product %s"
+#~ msgstr "Segnala un abuso per il prodotto %s"
+
+#~ msgid "in vendor shop %s"
+#~ msgstr "nello shop %s"
+
+#~ msgid "Leave a message explaining the reasons for your abuse report"
+#~ msgstr "Lascia un messaggio e spiega il motivo della segnalazione"
+
+#~ msgid ""
+#~ "Please, set the VAT/SSN field to complete your profile in your store "
+#~ "details"
+#~ msgstr ""
+#~ "Per favore, imposta il campo IVA/C.F. per completare il tuo profilo da "
+#~ "\"Profilo venditore\""
+
+#~ msgid ""
+#~ "vendor shops have no VAT/SSN set. Please, set VAT/SSN filed for each "
+#~ "vendor shop"
+#~ msgstr ""
+#~ "Non è stata specificata una partita IVA o il codice fiscale per gli shop "
+#~ "venditore. Per favore, compila il campo per ogni shop venditore."
+
+#~ msgid ""
+#~ "If you enable this option, each vendor will be able to manage refund on "
+#~ "his/her own reviews independently."
+#~ msgstr ""
+#~ "Se abiliti questa opzione, ciascun venditore potrà gestire il rimborso "
+#~ "per i pro"
+
+#~ msgid "Vendor details"
+#~ msgstr "Dettagli venditore"
+
+#~ msgid ""
+#~ "If you enable this option any vendor could publish products without super "
+#~ "admin authorization.This is the default option for any new vendor. It is "
+#~ "possible to override these settings for each vendor. "
+#~ msgstr ""
+#~ "Se abiliti questa opzione ogni venditore potrebbe pubblicare prodotti "
+#~ "senza l'autorizzazione del super-amministratore. Questa è l'opzione di "
+#~ "default per ogni nuovo venditore. E' possibile sovrascrivere queste "
+#~ "impostazioni per ogni venditore."
+
+#~ msgid "Choose which format of email to send."
+#~ msgstr "Scegli il formato email da inviare."
+
+#~ msgid "Minimum Withdrawals"
+#~ msgstr "Prelievo minimo"
+
+#~ msgid ""
+#~ "Cancelled order emails are sent to when orders have been marked cancelled "
+#~ "(if they were previously pending or on-hold)."
+#~ msgstr ""
+#~ "Le email per ordine cancellato vengono inviate quando lo stato degli "
+#~ "ordini è stato impostato come annullato (se prima erano in attesa o in "
+#~ "attesa di pagamento)."
+
+#~ msgid ""
+#~ "Select if you want to show \"Item sold\" information in single product "
+#~ "page under categories and tags information"
+#~ msgstr ""
+#~ "Scegli se mostrare l'informazione \"Articolo venduto\" nella pagina "
+#~ "singolo prodotto sotto le informazioni di categorie e tag"
+
+#~ msgid "Hide vendor products from other product listings"
+#~ msgstr "Nascondi prodotti venditore da altre elenchi prodotti"
+
+#~ msgid ""
+#~ "If you enable this option any vendor could publish product without super "
+#~ "admin autorizzation.\n"
+#~ "                                  This is the default option for new "
+#~ "vendor\n"
+#~ "                                  It is possible to override this "
+#~ "settings for each vendor. "
+#~ msgstr ""
+#~ "Se abiliti questa opzione, tutti i venditori potranno pubblicare i "
+#~ "prodotti senza dover avere l'autorizzazione dell'amministratore.\n"
+#~ "Questa è l'impostazione predefinita per ogni nuovo venditore.\n"
+#~ "È possibile sovrascrivere queste impostazioni per ogni singolo venditore."
+
+#~ msgid "Choose the maximum number of row you can show in the reports"
+#~ msgstr "Seleziona il numero massimo di righe da mostrare nei report"
+
+#~ msgid ""
+#~ "Select products that must have been added to cart to use this coupon or."
+#~ msgstr ""
+#~ "Seleziona i prodotti che devono essere aggiunti al carrello perché il "
+#~ "coupon possa essere utilizzato."
+
+#~ msgid "[{site_title}] Commission paid"
+#~ msgstr "Commissione per [{site_title}] pagata"
+
+#~ msgid "[{site_title}] Commissions unpaid"
+#~ msgstr "Le commissioni di [{site_title}] non sono state pagate"
+
+#~ msgid "[{site_title}] New Vendor Registration"
+#~ msgstr "[{site_title}] - "
